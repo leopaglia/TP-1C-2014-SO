@@ -1,0 +1,1789 @@
+[INFO] 16:31:07:860 CONSOLA/(14608:14608): FATAL ERROR: no se pudo abrir el archivo de configuración
+[INFO] 16:31:39:707 CONSOLA/(14623:14623): ERROR: al abrir el archivo : stack.bc . Ubicación inválida o archivo inexistente.
+[INFO] 16:31:57:998 CONSOLA/(14632:14632): Se abrió el archivo : stack.bc.
+[INFO] 16:31:57:998 CONSOLA/(14632:14632): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:31:57:998 CONSOLA/(14632:14632): Intentando conectar a kernel
+
+[INFO] 16:31:57:998 CONSOLA/(14632:14632): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:31:57:999 CONSOLA/(14632:14632): Se envió el handshake al kernel
+[INFO] 16:31:57:999 CONSOLA/(14632:14632): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:31:57:999 CONSOLA/(14632:14632): Conexión con kernel aceptada
+[INFO] 16:31:57:999 CONSOLA/(14632:14632): Programa enviado
+[INFO] 16:31:57:0 CONSOLA/(14632:14632): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:31:57:0 CONSOLA/(14632:14632): El kernel recibió el programa correctamente.
+[INFO] 16:36:08:232 CONSOLA/(14656:14656): Se abrió el archivo : stack.bc.
+[INFO] 16:36:08:232 CONSOLA/(14656:14656): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:36:08:232 CONSOLA/(14656:14656): Intentando conectar a kernel
+
+[INFO] 16:36:08:232 CONSOLA/(14656:14656): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:36:08:232 CONSOLA/(14656:14656): Se envió el handshake al kernel
+[INFO] 16:36:08:233 CONSOLA/(14656:14656): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:36:08:233 CONSOLA/(14656:14656): Conexión con kernel aceptada
+[INFO] 16:36:08:233 CONSOLA/(14656:14656): Programa enviado
+[INFO] 16:36:08:233 CONSOLA/(14656:14656): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:36:08:233 CONSOLA/(14656:14656): El kernel recibió el programa correctamente.
+[INFO] 16:39:20:556 CONSOLA/(14901:14901): Se abrió el archivo : stack.bc.
+[INFO] 16:39:20:556 CONSOLA/(14901:14901): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:39:20:556 CONSOLA/(14901:14901): Intentando conectar a kernel
+
+[INFO] 16:39:20:556 CONSOLA/(14901:14901): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:39:20:557 CONSOLA/(14901:14901): Se envió el handshake al kernel
+[INFO] 16:39:20:557 CONSOLA/(14901:14901): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:39:20:557 CONSOLA/(14901:14901): Conexión con kernel aceptada
+[INFO] 16:39:20:557 CONSOLA/(14901:14901): Programa enviado
+[INFO] 16:39:20:557 CONSOLA/(14901:14901): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:39:20:557 CONSOLA/(14901:14901): El kernel recibió el programa correctamente.
+[INFO] 16:40:26:547 CONSOLA/(15076:15076): Se abrió el archivo : stack.bc.
+[INFO] 16:40:26:547 CONSOLA/(15076:15076): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:40:26:547 CONSOLA/(15076:15076): Intentando conectar a kernel
+
+[INFO] 16:40:26:547 CONSOLA/(15076:15076): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:40:26:547 CONSOLA/(15076:15076): Se envió el handshake al kernel
+[INFO] 16:40:26:548 CONSOLA/(15076:15076): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:40:26:548 CONSOLA/(15076:15076): Conexión con kernel aceptada
+[INFO] 16:40:26:548 CONSOLA/(15076:15076): Programa enviado
+[INFO] 16:40:26:548 CONSOLA/(15076:15076): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:40:26:548 CONSOLA/(15076:15076): El kernel recibió el programa correctamente.
+[INFO] 16:42:00:174 CONSOLA/(15245:15245): Se abrió el archivo : stack.bc.
+[INFO] 16:42:00:174 CONSOLA/(15245:15245): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:42:00:174 CONSOLA/(15245:15245): Intentando conectar a kernel
+
+[INFO] 16:42:00:174 CONSOLA/(15245:15245): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:42:00:174 CONSOLA/(15245:15245): Se envió el handshake al kernel
+[INFO] 16:42:00:175 CONSOLA/(15245:15245): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:42:00:175 CONSOLA/(15245:15245): Conexión con kernel aceptada
+[INFO] 16:42:00:175 CONSOLA/(15245:15245): Programa enviado
+[INFO] 16:42:00:175 CONSOLA/(15245:15245): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:42:00:175 CONSOLA/(15245:15245): El kernel recibió el programa correctamente.
+[INFO] 16:42:59:344 CONSOLA/(15257:15257): Se abrió el archivo : stack.bc.
+[INFO] 16:42:59:344 CONSOLA/(15257:15257): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:42:59:344 CONSOLA/(15257:15257): Intentando conectar a kernel
+
+[INFO] 16:42:59:345 CONSOLA/(15257:15257): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:42:59:345 CONSOLA/(15257:15257): Se envió el handshake al kernel
+[INFO] 16:42:59:345 CONSOLA/(15257:15257): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:42:59:345 CONSOLA/(15257:15257): Conexión con kernel aceptada
+[INFO] 16:42:59:345 CONSOLA/(15257:15257): Programa enviado
+[INFO] 16:42:59:346 CONSOLA/(15257:15257): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:42:59:346 CONSOLA/(15257:15257): El kernel recibió el programa correctamente.
+[INFO] 16:53:05:719 CONSOLA/(15292:15292): Se abrió el archivo : stack.bc.
+[INFO] 16:53:05:719 CONSOLA/(15292:15292): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:53:05:719 CONSOLA/(15292:15292): Intentando conectar a kernel
+
+[INFO] 16:53:05:720 CONSOLA/(15292:15292): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:53:05:720 CONSOLA/(15292:15292): Se envió el handshake al kernel
+[INFO] 16:53:05:720 CONSOLA/(15292:15292): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:53:05:720 CONSOLA/(15292:15292): Conexión con kernel aceptada
+[INFO] 16:53:05:720 CONSOLA/(15292:15292): Programa enviado
+[INFO] 16:53:05:720 CONSOLA/(15292:15292): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:53:05:720 CONSOLA/(15292:15292): El kernel recibió el programa correctamente.
+[INFO] 16:56:19:679 CONSOLA/(15478:15478): Se abrió el archivo : stack.bc.
+[INFO] 16:56:19:679 CONSOLA/(15478:15478): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:56:19:679 CONSOLA/(15478:15478): Intentando conectar a kernel
+
+[INFO] 16:56:19:679 CONSOLA/(15478:15478): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:56:19:680 CONSOLA/(15478:15478): Se envió el handshake al kernel
+[INFO] 16:56:19:680 CONSOLA/(15478:15478): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:56:19:680 CONSOLA/(15478:15478): Conexión con kernel aceptada
+[INFO] 16:56:19:680 CONSOLA/(15478:15478): Programa enviado
+[INFO] 16:56:19:681 CONSOLA/(15478:15478): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:56:19:681 CONSOLA/(15478:15478): El kernel recibió el programa correctamente.
+[INFO] 16:59:09:162 CONSOLA/(15511:15511): Se abrió el archivo : stack.bc.
+[INFO] 16:59:09:162 CONSOLA/(15511:15511): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:59:09:162 CONSOLA/(15511:15511): Intentando conectar a kernel
+
+[INFO] 16:59:09:162 CONSOLA/(15511:15511): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:59:09:162 CONSOLA/(15511:15511): Se envió el handshake al kernel
+[INFO] 16:59:09:163 CONSOLA/(15511:15511): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:59:09:163 CONSOLA/(15511:15511): Conexión con kernel aceptada
+[INFO] 16:59:09:163 CONSOLA/(15511:15511): Programa enviado
+[INFO] 16:59:09:163 CONSOLA/(15511:15511): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:59:09:164 CONSOLA/(15511:15511): El kernel recibió el programa correctamente.
+[INFO] 16:59:42:46 CONSOLA/(15520:15520): Se abrió el archivo : stack.bc.
+[INFO] 16:59:42:46 CONSOLA/(15520:15520): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 16:59:42:46 CONSOLA/(15520:15520): Intentando conectar a kernel
+
+[INFO] 16:59:42:46 CONSOLA/(15520:15520): ENVIO datos. socket: 5. buffer: C277
+[INFO] 16:59:42:46 CONSOLA/(15520:15520): Se envió el handshake al kernel
+[INFO] 16:59:42:46 CONSOLA/(15520:15520): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:59:42:46 CONSOLA/(15520:15520): Conexión con kernel aceptada
+[INFO] 16:59:42:47 CONSOLA/(15520:15520): Programa enviado
+[INFO] 16:59:42:47 CONSOLA/(15520:15520): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 16:59:42:47 CONSOLA/(15520:15520): El kernel recibió el programa correctamente.
+[INFO] 17:00:40:490 CONSOLA/(15690:15690): Se abrió el archivo : stack.bc.
+[INFO] 17:00:40:490 CONSOLA/(15690:15690): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:00:40:490 CONSOLA/(15690:15690): Intentando conectar a kernel
+
+[INFO] 17:00:40:490 CONSOLA/(15690:15690): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:00:40:490 CONSOLA/(15690:15690): Se envió el handshake al kernel
+[INFO] 17:00:40:491 CONSOLA/(15690:15690): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:00:40:491 CONSOLA/(15690:15690): Conexión con kernel aceptada
+[INFO] 17:00:40:491 CONSOLA/(15690:15690): Programa enviado
+[INFO] 17:00:40:492 CONSOLA/(15690:15690): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:00:40:492 CONSOLA/(15690:15690): El kernel recibió el programa correctamente.
+[INFO] 17:14:42:398 CONSOLA/(15937:15937): Se abrió el archivo : stack.bc.
+[INFO] 17:14:42:398 CONSOLA/(15937:15937): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:14:42:398 CONSOLA/(15937:15937): Intentando conectar a kernel
+
+[INFO] 17:14:42:398 CONSOLA/(15937:15937): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:14:42:398 CONSOLA/(15937:15937): Se envió el handshake al kernel
+[INFO] 17:14:42:398 CONSOLA/(15937:15937): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:14:42:399 CONSOLA/(15937:15937): Conexión con kernel aceptada
+[INFO] 17:14:42:399 CONSOLA/(15937:15937): Programa enviado
+[INFO] 17:14:42:399 CONSOLA/(15937:15937): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:14:42:399 CONSOLA/(15937:15937): El kernel recibió el programa correctamente.
+[INFO] 17:16:19:716 CONSOLA/(16122:16122): Se abrió el archivo : stack.bc.
+[INFO] 17:16:19:717 CONSOLA/(16122:16122): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:16:19:717 CONSOLA/(16122:16122): Intentando conectar a kernel
+
+[INFO] 17:16:19:717 CONSOLA/(16122:16122): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:16:19:717 CONSOLA/(16122:16122): Se envió el handshake al kernel
+[INFO] 17:16:19:718 CONSOLA/(16122:16122): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:16:19:718 CONSOLA/(16122:16122): Conexión con kernel aceptada
+[INFO] 17:16:19:718 CONSOLA/(16122:16122): Programa enviado
+[INFO] 17:16:19:718 CONSOLA/(16122:16122): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:16:19:718 CONSOLA/(16122:16122): El kernel recibió el programa correctamente.
+[INFO] 17:16:50:899 CONSOLA/(16395:16395): Se abrió el archivo : stack.bc.
+[INFO] 17:16:50:899 CONSOLA/(16395:16395): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:16:50:899 CONSOLA/(16395:16395): Intentando conectar a kernel
+
+[INFO] 17:16:50:899 CONSOLA/(16395:16395): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:16:50:899 CONSOLA/(16395:16395): Se envió el handshake al kernel
+[INFO] 17:16:50:900 CONSOLA/(16395:16395): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:16:50:900 CONSOLA/(16395:16395): Conexión con kernel aceptada
+[INFO] 17:16:50:900 CONSOLA/(16395:16395): Programa enviado
+[INFO] 17:16:50:900 CONSOLA/(16395:16395): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:16:50:900 CONSOLA/(16395:16395): El kernel recibió el programa correctamente.
+[INFO] 17:17:19:551 CONSOLA/(16555:16555): Se abrió el archivo : stack.bc.
+[INFO] 17:17:19:551 CONSOLA/(16555:16555): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:17:19:552 CONSOLA/(16555:16555): Intentando conectar a kernel
+
+[INFO] 17:17:19:552 CONSOLA/(16555:16555): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:17:19:552 CONSOLA/(16555:16555): Se envió el handshake al kernel
+[INFO] 17:17:19:552 CONSOLA/(16555:16555): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:17:19:552 CONSOLA/(16555:16555): Conexión con kernel aceptada
+[INFO] 17:17:19:552 CONSOLA/(16555:16555): Programa enviado
+[INFO] 17:17:19:553 CONSOLA/(16555:16555): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:17:19:553 CONSOLA/(16555:16555): El kernel recibió el programa correctamente.
+[INFO] 17:21:11:869 CONSOLA/(16881:16881): Se abrió el archivo : stack.bc.
+[INFO] 17:21:11:869 CONSOLA/(16881:16881): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:21:11:869 CONSOLA/(16881:16881): Intentando conectar a kernel
+
+[INFO] 17:21:11:870 CONSOLA/(16881:16881): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:21:11:870 CONSOLA/(16881:16881): Se envió el handshake al kernel
+[INFO] 17:21:11:870 CONSOLA/(16881:16881): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:21:11:870 CONSOLA/(16881:16881): Conexión con kernel aceptada
+[INFO] 17:21:11:870 CONSOLA/(16881:16881): Programa enviado
+[INFO] 17:21:11:871 CONSOLA/(16881:16881): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:21:11:871 CONSOLA/(16881:16881): El kernel recibió el programa correctamente.
+[INFO] 17:22:27:72 CONSOLA/(17048:17048): Se abrió el archivo : stack.bc.
+[INFO] 17:22:27:72 CONSOLA/(17048:17048): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:22:27:73 CONSOLA/(17048:17048): Intentando conectar a kernel
+
+[INFO] 17:22:27:73 CONSOLA/(17048:17048): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:22:27:73 CONSOLA/(17048:17048): Se envió el handshake al kernel
+[INFO] 17:22:27:73 CONSOLA/(17048:17048): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:22:27:73 CONSOLA/(17048:17048): Conexión con kernel aceptada
+[INFO] 17:22:27:73 CONSOLA/(17048:17048): Programa enviado
+[INFO] 17:22:27:74 CONSOLA/(17048:17048): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:22:27:74 CONSOLA/(17048:17048): El kernel recibió el programa correctamente.
+[INFO] 17:26:39:200 CONSOLA/(17247:17247): Se abrió el archivo : stack.bc.
+[INFO] 17:26:39:200 CONSOLA/(17247:17247): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:26:39:200 CONSOLA/(17247:17247): Intentando conectar a kernel
+
+[INFO] 17:26:39:200 CONSOLA/(17247:17247): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:26:39:200 CONSOLA/(17247:17247): Se envió el handshake al kernel
+[INFO] 17:26:39:201 CONSOLA/(17247:17247): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:26:39:201 CONSOLA/(17247:17247): Conexión con kernel aceptada
+[INFO] 17:26:39:201 CONSOLA/(17247:17247): Programa enviado
+[INFO] 17:26:39:201 CONSOLA/(17247:17247): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:26:39:201 CONSOLA/(17247:17247): El kernel recibió el programa correctamente.
+[INFO] 17:27:35:316 CONSOLA/(17410:17410): Se abrió el archivo : stack.bc.
+[INFO] 17:27:35:316 CONSOLA/(17410:17410): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:27:35:316 CONSOLA/(17410:17410): Intentando conectar a kernel
+
+[INFO] 17:27:35:317 CONSOLA/(17410:17410): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:27:35:317 CONSOLA/(17410:17410): Se envió el handshake al kernel
+[INFO] 17:27:35:317 CONSOLA/(17410:17410): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:27:35:318 CONSOLA/(17410:17410): Conexión con kernel aceptada
+[INFO] 17:27:35:318 CONSOLA/(17410:17410): Programa enviado
+[INFO] 17:27:35:318 CONSOLA/(17410:17410): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:27:35:318 CONSOLA/(17410:17410): El kernel recibió el programa correctamente.
+[INFO] 17:28:13:817 CONSOLA/(17704:17704): Se abrió el archivo : stack.bc.
+[INFO] 17:28:13:817 CONSOLA/(17704:17704): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:28:13:817 CONSOLA/(17704:17704): Intentando conectar a kernel
+
+[INFO] 17:28:13:817 CONSOLA/(17704:17704): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:28:13:817 CONSOLA/(17704:17704): Se envió el handshake al kernel
+[INFO] 17:28:13:818 CONSOLA/(17704:17704): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:28:13:818 CONSOLA/(17704:17704): Conexión con kernel aceptada
+[INFO] 17:28:13:818 CONSOLA/(17704:17704): Programa enviado
+[INFO] 17:28:13:818 CONSOLA/(17704:17704): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:28:13:818 CONSOLA/(17704:17704): El kernel recibió el programa correctamente.
+[INFO] 17:29:00:296 CONSOLA/(17863:17863): Se abrió el archivo : stack.bc.
+[INFO] 17:29:00:296 CONSOLA/(17863:17863): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:29:00:296 CONSOLA/(17863:17863): Intentando conectar a kernel
+
+[INFO] 17:29:00:296 CONSOLA/(17863:17863): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:29:00:296 CONSOLA/(17863:17863): Se envió el handshake al kernel
+[INFO] 17:29:00:297 CONSOLA/(17863:17863): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:29:00:297 CONSOLA/(17863:17863): Conexión con kernel aceptada
+[INFO] 17:29:00:297 CONSOLA/(17863:17863): Programa enviado
+[INFO] 17:29:00:297 CONSOLA/(17863:17863): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:29:00:297 CONSOLA/(17863:17863): El kernel recibió el programa correctamente.
+[INFO] 17:30:37:538 CONSOLA/(18153:18153): Se abrió el archivo : stack.bc.
+[INFO] 17:30:37:538 CONSOLA/(18153:18153): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:30:37:538 CONSOLA/(18153:18153): Intentando conectar a kernel
+
+[INFO] 17:30:37:539 CONSOLA/(18153:18153): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:30:37:539 CONSOLA/(18153:18153): Se envió el handshake al kernel
+[INFO] 17:30:37:539 CONSOLA/(18153:18153): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:30:37:539 CONSOLA/(18153:18153): Conexión con kernel aceptada
+[INFO] 17:30:37:540 CONSOLA/(18153:18153): Programa enviado
+[INFO] 17:30:37:540 CONSOLA/(18153:18153): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:30:37:540 CONSOLA/(18153:18153): El kernel recibió el programa correctamente.
+[INFO] 17:41:25:145 CONSOLA/(18380:18380): Se abrió el archivo : stack.bc.
+[INFO] 17:41:25:145 CONSOLA/(18380:18380): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:41:25:145 CONSOLA/(18380:18380): Intentando conectar a kernel
+
+[INFO] 17:41:25:145 CONSOLA/(18380:18380): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:41:25:146 CONSOLA/(18380:18380): Se envió el handshake al kernel
+[INFO] 17:41:25:146 CONSOLA/(18380:18380): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:41:25:146 CONSOLA/(18380:18380): Conexión con kernel aceptada
+[INFO] 17:41:25:146 CONSOLA/(18380:18380): Programa enviado
+[INFO] 17:41:25:147 CONSOLA/(18380:18380): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:41:25:147 CONSOLA/(18380:18380): El kernel recibió el programa correctamente.
+[INFO] 17:44:30:4 CONSOLA/(18561:18561): Se abrió el archivo : stack.bc.
+[INFO] 17:44:30:4 CONSOLA/(18561:18561): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:44:30:4 CONSOLA/(18561:18561): Intentando conectar a kernel
+
+[INFO] 17:44:30:5 CONSOLA/(18561:18561): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:44:30:5 CONSOLA/(18561:18561): Se envió el handshake al kernel
+[INFO] 17:44:30:5 CONSOLA/(18561:18561): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:44:30:5 CONSOLA/(18561:18561): Conexión con kernel aceptada
+[INFO] 17:44:30:5 CONSOLA/(18561:18561): Programa enviado
+[INFO] 17:44:30:6 CONSOLA/(18561:18561): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:44:30:6 CONSOLA/(18561:18561): El kernel recibió el programa correctamente.
+[INFO] 17:45:17:132 CONSOLA/(18721:18721): Se abrió el archivo : stack.bc.
+[INFO] 17:45:17:132 CONSOLA/(18721:18721): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:45:17:132 CONSOLA/(18721:18721): Intentando conectar a kernel
+
+[INFO] 17:45:17:132 CONSOLA/(18721:18721): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:45:17:133 CONSOLA/(18721:18721): Se envió el handshake al kernel
+[INFO] 17:45:17:133 CONSOLA/(18721:18721): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:45:17:133 CONSOLA/(18721:18721): Conexión con kernel aceptada
+[INFO] 17:45:17:133 CONSOLA/(18721:18721): Programa enviado
+[INFO] 17:45:17:133 CONSOLA/(18721:18721): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:45:17:133 CONSOLA/(18721:18721): El kernel recibió el programa correctamente.
+[INFO] 17:47:04:558 CONSOLA/(18752:18752): Se abrió el archivo : stack.bc.
+[INFO] 17:47:04:558 CONSOLA/(18752:18752): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:47:04:558 CONSOLA/(18752:18752): Intentando conectar a kernel
+
+[INFO] 17:47:04:558 CONSOLA/(18752:18752): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:47:04:558 CONSOLA/(18752:18752): Se envió el handshake al kernel
+[INFO] 17:47:04:559 CONSOLA/(18752:18752): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:47:04:559 CONSOLA/(18752:18752): Conexión con kernel aceptada
+[INFO] 17:47:04:559 CONSOLA/(18752:18752): Programa enviado
+[INFO] 17:47:04:559 CONSOLA/(18752:18752): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:47:04:559 CONSOLA/(18752:18752): El kernel recibió el programa correctamente.
+[INFO] 17:48:11:294 CONSOLA/(18925:18925): Se abrió el archivo : stack.bc.
+[INFO] 17:48:11:294 CONSOLA/(18925:18925): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:48:11:294 CONSOLA/(18925:18925): Intentando conectar a kernel
+
+[INFO] 17:48:11:294 CONSOLA/(18925:18925): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:48:11:294 CONSOLA/(18925:18925): Se envió el handshake al kernel
+[INFO] 17:48:11:294 CONSOLA/(18925:18925): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:48:11:295 CONSOLA/(18925:18925): Conexión con kernel aceptada
+[INFO] 17:48:11:295 CONSOLA/(18925:18925): Programa enviado
+[INFO] 17:48:11:295 CONSOLA/(18925:18925): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:48:11:295 CONSOLA/(18925:18925): El kernel recibió el programa correctamente.
+[INFO] 17:49:32:130 CONSOLA/(19102:19102): Se abrió el archivo : stack.bc.
+[INFO] 17:49:32:130 CONSOLA/(19102:19102): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:49:32:130 CONSOLA/(19102:19102): Intentando conectar a kernel
+
+[INFO] 17:49:32:131 CONSOLA/(19102:19102): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:49:32:131 CONSOLA/(19102:19102): Se envió el handshake al kernel
+[INFO] 17:49:32:131 CONSOLA/(19102:19102): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:49:32:131 CONSOLA/(19102:19102): Conexión con kernel aceptada
+[INFO] 17:49:32:131 CONSOLA/(19102:19102): Programa enviado
+[INFO] 17:49:32:132 CONSOLA/(19102:19102): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:49:32:132 CONSOLA/(19102:19102): El kernel recibió el programa correctamente.
+[INFO] 17:50:34:538 CONSOLA/(19263:19263): Se abrió el archivo : stack.bc.
+[INFO] 17:50:34:538 CONSOLA/(19263:19263): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:50:34:538 CONSOLA/(19263:19263): Intentando conectar a kernel
+
+[INFO] 17:50:34:538 CONSOLA/(19263:19263): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:50:34:539 CONSOLA/(19263:19263): Se envió el handshake al kernel
+[INFO] 17:50:34:539 CONSOLA/(19263:19263): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:50:34:539 CONSOLA/(19263:19263): Conexión con kernel aceptada
+[INFO] 17:50:34:539 CONSOLA/(19263:19263): Programa enviado
+[INFO] 17:50:34:540 CONSOLA/(19263:19263): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:50:34:540 CONSOLA/(19263:19263): El kernel recibió el programa correctamente.
+[INFO] 17:50:49:713 CONSOLA/(19271:19271): Se abrió el archivo : stack.bc.
+[INFO] 17:50:49:713 CONSOLA/(19271:19271): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:50:49:713 CONSOLA/(19271:19271): Intentando conectar a kernel
+
+[INFO] 17:50:49:713 CONSOLA/(19271:19271): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:50:49:713 CONSOLA/(19271:19271): Se envió el handshake al kernel
+[INFO] 17:50:49:714 CONSOLA/(19271:19271): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:50:49:714 CONSOLA/(19271:19271): Conexión con kernel aceptada
+[INFO] 17:50:49:714 CONSOLA/(19271:19271): Programa enviado
+[INFO] 17:50:49:714 CONSOLA/(19271:19271): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:50:49:715 CONSOLA/(19271:19271): El kernel recibió el programa correctamente.
+[INFO] 17:55:31:521 CONSOLA/(19456:19456): Se abrió el archivo : stack.bc.
+[INFO] 17:55:31:521 CONSOLA/(19456:19456): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:55:31:521 CONSOLA/(19456:19456): Intentando conectar a kernel
+
+[INFO] 17:55:31:521 CONSOLA/(19456:19456): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:55:31:521 CONSOLA/(19456:19456): Se envió el handshake al kernel
+[INFO] 17:55:31:522 CONSOLA/(19456:19456): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:55:31:522 CONSOLA/(19456:19456): Conexión con kernel aceptada
+[INFO] 17:55:31:522 CONSOLA/(19456:19456): Programa enviado
+[INFO] 17:55:31:522 CONSOLA/(19456:19456): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:55:31:522 CONSOLA/(19456:19456): El kernel recibió el programa correctamente.
+[INFO] 17:56:37:787 CONSOLA/(19625:19625): Se abrió el archivo : stack.bc.
+[INFO] 17:56:37:787 CONSOLA/(19625:19625): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:56:37:787 CONSOLA/(19625:19625): Intentando conectar a kernel
+
+[INFO] 17:56:37:788 CONSOLA/(19625:19625): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:56:37:788 CONSOLA/(19625:19625): Se envió el handshake al kernel
+[INFO] 17:56:37:788 CONSOLA/(19625:19625): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:56:37:788 CONSOLA/(19625:19625): Conexión con kernel aceptada
+[INFO] 17:56:37:788 CONSOLA/(19625:19625): Programa enviado
+[INFO] 17:56:37:788 CONSOLA/(19625:19625): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:56:37:788 CONSOLA/(19625:19625): El kernel recibió el programa correctamente.
+[INFO] 17:59:07:106 CONSOLA/(19805:19805): Se abrió el archivo : stack.bc.
+[INFO] 17:59:07:106 CONSOLA/(19805:19805): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 17:59:07:106 CONSOLA/(19805:19805): Intentando conectar a kernel
+
+[INFO] 17:59:07:107 CONSOLA/(19805:19805): ENVIO datos. socket: 5. buffer: C277
+[INFO] 17:59:07:107 CONSOLA/(19805:19805): Se envió el handshake al kernel
+[INFO] 17:59:07:107 CONSOLA/(19805:19805): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:59:07:107 CONSOLA/(19805:19805): Conexión con kernel aceptada
+[INFO] 17:59:07:107 CONSOLA/(19805:19805): Programa enviado
+[INFO] 17:59:07:108 CONSOLA/(19805:19805): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 17:59:07:108 CONSOLA/(19805:19805): El kernel recibió el programa correctamente.
+[INFO] 18:00:44:633 CONSOLA/(20132:20132): Se abrió el archivo : stack.bc.
+[INFO] 18:00:44:633 CONSOLA/(20132:20132): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:00:44:633 CONSOLA/(20132:20132): Intentando conectar a kernel
+
+[INFO] 18:00:44:633 CONSOLA/(20132:20132): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:00:44:634 CONSOLA/(20132:20132): Se envió el handshake al kernel
+[INFO] 18:00:44:634 CONSOLA/(20132:20132): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:00:44:634 CONSOLA/(20132:20132): Conexión con kernel aceptada
+[INFO] 18:00:44:634 CONSOLA/(20132:20132): Programa enviado
+[INFO] 18:00:44:634 CONSOLA/(20132:20132): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:00:44:635 CONSOLA/(20132:20132): El kernel recibió el programa correctamente.
+[INFO] 18:03:43:629 CONSOLA/(20475:20475): Se abrió el archivo : stack.bc.
+[INFO] 18:03:43:629 CONSOLA/(20475:20475): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:03:43:629 CONSOLA/(20475:20475): Intentando conectar a kernel
+
+[INFO] 18:03:43:629 CONSOLA/(20475:20475): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:03:43:629 CONSOLA/(20475:20475): Se envió el handshake al kernel
+[INFO] 18:03:43:630 CONSOLA/(20475:20475): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:03:43:630 CONSOLA/(20475:20475): Conexión con kernel aceptada
+[INFO] 18:03:43:630 CONSOLA/(20475:20475): Programa enviado
+[INFO] 18:03:43:630 CONSOLA/(20475:20475): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:03:43:630 CONSOLA/(20475:20475): El kernel recibió el programa correctamente.
+[INFO] 18:04:33:96 CONSOLA/(20636:20636): Se abrió el archivo : stack.bc.
+[INFO] 18:04:33:96 CONSOLA/(20636:20636): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:04:33:97 CONSOLA/(20636:20636): Intentando conectar a kernel
+
+[INFO] 18:04:33:97 CONSOLA/(20636:20636): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:04:33:97 CONSOLA/(20636:20636): Se envió el handshake al kernel
+[INFO] 18:04:33:97 CONSOLA/(20636:20636): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:04:33:97 CONSOLA/(20636:20636): Conexión con kernel aceptada
+[INFO] 18:04:33:98 CONSOLA/(20636:20636): Programa enviado
+[INFO] 18:04:33:98 CONSOLA/(20636:20636): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:04:33:98 CONSOLA/(20636:20636): El kernel recibió el programa correctamente.
+[INFO] 18:11:56:22 CONSOLA/(21710:21710): Se abrió el archivo : stack.bc.
+[INFO] 18:11:56:22 CONSOLA/(21710:21710): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:11:56:24 CONSOLA/(21710:21710): Intentando conectar a kernel
+
+[INFO] 18:11:56:25 CONSOLA/(21710:21710): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:11:56:25 CONSOLA/(21710:21710): Se envió el handshake al kernel
+[INFO] 18:11:56:26 CONSOLA/(21710:21710): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:11:56:26 CONSOLA/(21710:21710): Conexión con kernel aceptada
+[INFO] 18:11:56:26 CONSOLA/(21710:21710): Programa enviado
+[INFO] 18:11:56:27 CONSOLA/(21710:21710): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:11:56:27 CONSOLA/(21710:21710): El kernel recibió el programa correctamente.
+[INFO] 18:13:05:655 CONSOLA/(21880:21880): Se abrió el archivo : stack.bc.
+[INFO] 18:13:05:655 CONSOLA/(21880:21880): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:13:05:655 CONSOLA/(21880:21880): Intentando conectar a kernel
+
+[INFO] 18:13:05:656 CONSOLA/(21880:21880): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:13:05:656 CONSOLA/(21880:21880): Se envió el handshake al kernel
+[INFO] 18:13:05:656 CONSOLA/(21880:21880): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:13:05:656 CONSOLA/(21880:21880): Conexión con kernel aceptada
+[INFO] 18:13:05:656 CONSOLA/(21880:21880): Programa enviado
+[INFO] 18:13:05:657 CONSOLA/(21880:21880): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:13:05:658 CONSOLA/(21880:21880): El kernel recibió el programa correctamente.
+[INFO] 18:14:03:564 CONSOLA/(22053:22053): Se abrió el archivo : stack.bc.
+[INFO] 18:14:03:565 CONSOLA/(22053:22053): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:14:03:565 CONSOLA/(22053:22053): Intentando conectar a kernel
+
+[INFO] 18:14:03:565 CONSOLA/(22053:22053): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:14:03:565 CONSOLA/(22053:22053): Se envió el handshake al kernel
+[INFO] 18:14:03:565 CONSOLA/(22053:22053): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:14:03:565 CONSOLA/(22053:22053): Conexión con kernel aceptada
+[INFO] 18:14:03:566 CONSOLA/(22053:22053): Programa enviado
+[INFO] 18:14:03:566 CONSOLA/(22053:22053): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:14:03:566 CONSOLA/(22053:22053): El kernel recibió el programa correctamente.
+[INFO] 18:26:33:379 CONSOLA/(22280:22280): Se abrió el archivo : stack.bc.
+[INFO] 18:26:33:379 CONSOLA/(22280:22280): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): Intentando conectar a kernel
+
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): Se envió el handshake al kernel
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): Conexión con kernel aceptada
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): Programa enviado
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:26:33:380 CONSOLA/(22280:22280): El kernel recibió el programa correctamente.
+[INFO] 18:31:11:273 CONSOLA/(22887:22887): Se abrió el archivo : stack.bc.
+[INFO] 18:31:11:273 CONSOLA/(22887:22887): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:31:11:273 CONSOLA/(22887:22887): Intentando conectar a kernel
+
+[INFO] 18:31:11:273 CONSOLA/(22887:22887): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:31:11:273 CONSOLA/(22887:22887): Se envió el handshake al kernel
+[INFO] 18:31:11:274 CONSOLA/(22887:22887): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:31:11:274 CONSOLA/(22887:22887): Conexión con kernel aceptada
+[INFO] 18:31:11:274 CONSOLA/(22887:22887): Programa enviado
+[INFO] 18:31:11:274 CONSOLA/(22887:22887): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:31:11:274 CONSOLA/(22887:22887): El kernel recibió el programa correctamente.
+[INFO] 18:32:12:75 CONSOLA/(23048:23048): Se abrió el archivo : stack.bc.
+[INFO] 18:32:12:76 CONSOLA/(23048:23048): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:32:12:76 CONSOLA/(23048:23048): Intentando conectar a kernel
+
+[INFO] 18:32:12:76 CONSOLA/(23048:23048): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:32:12:76 CONSOLA/(23048:23048): Se envió el handshake al kernel
+[INFO] 18:32:12:76 CONSOLA/(23048:23048): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:32:12:76 CONSOLA/(23048:23048): Conexión con kernel aceptada
+[INFO] 18:32:12:77 CONSOLA/(23048:23048): Programa enviado
+[INFO] 18:32:12:77 CONSOLA/(23048:23048): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:32:12:77 CONSOLA/(23048:23048): El kernel recibió el programa correctamente.
+[INFO] 18:32:39:102 CONSOLA/(23060:23060): Se abrió el archivo : stack.bc.
+[INFO] 18:32:39:102 CONSOLA/(23060:23060): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:32:39:103 CONSOLA/(23060:23060): Intentando conectar a kernel
+
+[INFO] 18:32:39:103 CONSOLA/(23060:23060): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:32:39:103 CONSOLA/(23060:23060): Se envió el handshake al kernel
+[INFO] 18:32:39:103 CONSOLA/(23060:23060): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:32:39:103 CONSOLA/(23060:23060): Conexión con kernel aceptada
+[INFO] 18:32:39:104 CONSOLA/(23060:23060): Programa enviado
+[INFO] 18:32:39:104 CONSOLA/(23060:23060): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:32:39:104 CONSOLA/(23060:23060): El kernel recibió el programa correctamente.
+[INFO] 18:35:20:168 CONSOLA/(23236:23236): Se abrió el archivo : stack.bc.
+[INFO] 18:35:20:168 CONSOLA/(23236:23236): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:35:20:168 CONSOLA/(23236:23236): Intentando conectar a kernel
+
+[INFO] 18:35:20:168 CONSOLA/(23236:23236): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:35:20:168 CONSOLA/(23236:23236): Se envió el handshake al kernel
+[INFO] 18:35:20:169 CONSOLA/(23236:23236): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:35:20:169 CONSOLA/(23236:23236): Conexión con kernel aceptada
+[INFO] 18:35:20:169 CONSOLA/(23236:23236): Programa enviado
+[INFO] 18:35:20:169 CONSOLA/(23236:23236): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:35:20:170 CONSOLA/(23236:23236): El kernel recibió el programa correctamente.
+[INFO] 18:36:54:426 CONSOLA/(23408:23408): Se abrió el archivo : stack.bc.
+[INFO] 18:36:54:426 CONSOLA/(23408:23408): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:36:54:426 CONSOLA/(23408:23408): Intentando conectar a kernel
+
+[INFO] 18:36:54:427 CONSOLA/(23408:23408): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:36:54:427 CONSOLA/(23408:23408): Se envió el handshake al kernel
+[INFO] 18:36:54:427 CONSOLA/(23408:23408): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:36:54:427 CONSOLA/(23408:23408): Conexión con kernel aceptada
+[INFO] 18:36:54:427 CONSOLA/(23408:23408): Programa enviado
+[INFO] 18:36:54:428 CONSOLA/(23408:23408): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:36:54:428 CONSOLA/(23408:23408): El kernel recibió el programa correctamente.
+[INFO] 18:37:36:889 CONSOLA/(23549:23549): Se abrió el archivo : stack.bc.
+[INFO] 18:37:36:889 CONSOLA/(23549:23549): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:37:36:889 CONSOLA/(23549:23549): Intentando conectar a kernel
+
+[INFO] 18:37:36:890 CONSOLA/(23549:23549): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:37:36:890 CONSOLA/(23549:23549): Se envió el handshake al kernel
+[INFO] 18:37:36:890 CONSOLA/(23549:23549): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:37:36:890 CONSOLA/(23549:23549): Conexión con kernel aceptada
+[INFO] 18:37:36:890 CONSOLA/(23549:23549): Programa enviado
+[INFO] 18:37:36:891 CONSOLA/(23549:23549): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:37:36:891 CONSOLA/(23549:23549): El kernel recibió el programa correctamente.
+[INFO] 18:41:24:488 CONSOLA/(2000:2000): Se abrió el archivo : stack.bc.
+[INFO] 18:41:24:491 CONSOLA/(2000:2000): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:41:24:491 CONSOLA/(2000:2000): Intentando conectar a kernel
+
+[INFO] 18:41:24:491 CONSOLA/(2000:2000): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:41:24:491 CONSOLA/(2000:2000): Se envió el handshake al kernel
+[INFO] 18:41:24:492 CONSOLA/(2000:2000): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:41:24:492 CONSOLA/(2000:2000): Conexión con kernel aceptada
+[INFO] 18:41:24:492 CONSOLA/(2000:2000): Programa enviado
+[INFO] 18:41:24:492 CONSOLA/(2000:2000): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:41:24:493 CONSOLA/(2000:2000): El kernel recibió el programa correctamente.
+[INFO] 18:43:36:687 CONSOLA/(2206:2206): Se abrió el archivo : stack.bc.
+[INFO] 18:43:36:688 CONSOLA/(2206:2206): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:43:36:688 CONSOLA/(2206:2206): Intentando conectar a kernel
+
+[INFO] 18:43:36:688 CONSOLA/(2206:2206): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:43:36:688 CONSOLA/(2206:2206): Se envió el handshake al kernel
+[INFO] 18:43:36:688 CONSOLA/(2206:2206): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:43:36:689 CONSOLA/(2206:2206): Conexión con kernel aceptada
+[INFO] 18:43:36:689 CONSOLA/(2206:2206): Programa enviado
+[INFO] 18:43:36:690 CONSOLA/(2206:2206): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:43:36:690 CONSOLA/(2206:2206): El kernel recibió el programa correctamente.
+[INFO] 18:47:59:436 CONSOLA/(3122:3122): Se abrió el archivo : stack.bc.
+[INFO] 18:47:59:436 CONSOLA/(3122:3122): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:47:59:436 CONSOLA/(3122:3122): Intentando conectar a kernel
+
+[INFO] 18:47:59:436 CONSOLA/(3122:3122): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:47:59:436 CONSOLA/(3122:3122): Se envió el handshake al kernel
+[INFO] 18:47:59:437 CONSOLA/(3122:3122): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:47:59:437 CONSOLA/(3122:3122): Conexión con kernel aceptada
+[INFO] 18:47:59:437 CONSOLA/(3122:3122): Programa enviado
+[INFO] 18:47:59:437 CONSOLA/(3122:3122): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:47:59:438 CONSOLA/(3122:3122): El kernel recibió el programa correctamente.
+[INFO] 18:49:18:653 CONSOLA/(3308:3308): Se abrió el archivo : stack.bc.
+[INFO] 18:49:18:653 CONSOLA/(3308:3308): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:49:18:653 CONSOLA/(3308:3308): Intentando conectar a kernel
+
+[INFO] 18:49:18:653 CONSOLA/(3308:3308): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:49:18:653 CONSOLA/(3308:3308): Se envió el handshake al kernel
+[INFO] 18:49:18:654 CONSOLA/(3308:3308): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:49:18:654 CONSOLA/(3308:3308): Conexión con kernel aceptada
+[INFO] 18:49:18:654 CONSOLA/(3308:3308): Programa enviado
+[INFO] 18:49:18:654 CONSOLA/(3308:3308): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:49:18:654 CONSOLA/(3308:3308): El kernel recibió el programa correctamente.
+[INFO] 18:50:03:38 CONSOLA/(3470:3470): Se abrió el archivo : stack.bc.
+[INFO] 18:50:03:38 CONSOLA/(3470:3470): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:50:03:38 CONSOLA/(3470:3470): Intentando conectar a kernel
+
+[INFO] 18:50:03:38 CONSOLA/(3470:3470): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:50:03:38 CONSOLA/(3470:3470): Se envió el handshake al kernel
+[INFO] 18:50:03:39 CONSOLA/(3470:3470): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:50:03:39 CONSOLA/(3470:3470): Conexión con kernel aceptada
+[INFO] 18:50:03:39 CONSOLA/(3470:3470): Programa enviado
+[INFO] 18:50:03:39 CONSOLA/(3470:3470): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:50:03:39 CONSOLA/(3470:3470): El kernel recibió el programa correctamente.
+[INFO] 18:55:24:54 CONSOLA/(3693:3693): Se abrió el archivo : stack.bc.
+[INFO] 18:55:24:54 CONSOLA/(3693:3693): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:55:24:55 CONSOLA/(3693:3693): Intentando conectar a kernel
+
+[INFO] 18:55:24:55 CONSOLA/(3693:3693): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:55:24:55 CONSOLA/(3693:3693): Se envió el handshake al kernel
+[INFO] 18:55:24:56 CONSOLA/(3693:3693): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:55:24:56 CONSOLA/(3693:3693): Conexión con kernel aceptada
+[INFO] 18:55:24:56 CONSOLA/(3693:3693): Programa enviado
+[INFO] 18:55:24:56 CONSOLA/(3693:3693): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:55:24:56 CONSOLA/(3693:3693): El kernel recibió el programa correctamente.
+[INFO] 18:58:10:15 CONSOLA/(3891:3891): Se abrió el archivo : stack.bc.
+[INFO] 18:58:10:15 CONSOLA/(3891:3891): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:58:10:16 CONSOLA/(3891:3891): Intentando conectar a kernel
+
+[INFO] 18:58:10:16 CONSOLA/(3891:3891): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:58:10:16 CONSOLA/(3891:3891): Se envió el handshake al kernel
+[INFO] 18:58:10:16 CONSOLA/(3891:3891): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:58:10:17 CONSOLA/(3891:3891): Conexión con kernel aceptada
+[INFO] 18:58:10:17 CONSOLA/(3891:3891): Programa enviado
+[INFO] 18:58:10:17 CONSOLA/(3891:3891): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:58:10:17 CONSOLA/(3891:3891): El kernel recibió el programa correctamente.
+[INFO] 18:59:24:923 CONSOLA/(4053:4053): Se abrió el archivo : stack.bc.
+[INFO] 18:59:24:923 CONSOLA/(4053:4053): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 18:59:24:924 CONSOLA/(4053:4053): Intentando conectar a kernel
+
+[INFO] 18:59:24:924 CONSOLA/(4053:4053): ENVIO datos. socket: 5. buffer: C277
+[INFO] 18:59:24:924 CONSOLA/(4053:4053): Se envió el handshake al kernel
+[INFO] 18:59:24:925 CONSOLA/(4053:4053): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:59:24:925 CONSOLA/(4053:4053): Conexión con kernel aceptada
+[INFO] 18:59:24:925 CONSOLA/(4053:4053): Programa enviado
+[INFO] 18:59:24:925 CONSOLA/(4053:4053): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 18:59:24:925 CONSOLA/(4053:4053): El kernel recibió el programa correctamente.
+[INFO] 19:07:38:353 CONSOLA/(4226:4226): Se abrió el archivo : arithmetics.bc.
+[INFO] 19:07:38:353 CONSOLA/(4226:4226): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 19:07:38:353 CONSOLA/(4226:4226): Intentando conectar a kernel
+
+[INFO] 19:07:38:353 CONSOLA/(4226:4226): ENVIO datos. socket: 5. buffer: C298
+[INFO] 19:07:38:353 CONSOLA/(4226:4226): Se envió el handshake al kernel
+[INFO] 19:07:38:353 CONSOLA/(4226:4226): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:07:38:353 CONSOLA/(4226:4226): Conexión con kernel aceptada
+[INFO] 19:07:38:354 CONSOLA/(4226:4226): Programa enviado
+[INFO] 19:07:38:354 CONSOLA/(4226:4226): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:07:38:354 CONSOLA/(4226:4226): El kernel recibió el programa correctamente.
+[INFO] 19:10:12:836 CONSOLA/(4264:4264): Se abrió el archivo : arithmetics.bc.
+[INFO] 19:10:12:836 CONSOLA/(4264:4264): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 19:10:12:836 CONSOLA/(4264:4264): Intentando conectar a kernel
+
+[INFO] 19:10:12:837 CONSOLA/(4264:4264): ENVIO datos. socket: 5. buffer: C298
+[INFO] 19:10:12:837 CONSOLA/(4264:4264): Se envió el handshake al kernel
+[INFO] 19:10:12:837 CONSOLA/(4264:4264): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:10:12:837 CONSOLA/(4264:4264): Conexión con kernel aceptada
+[INFO] 19:10:12:837 CONSOLA/(4264:4264): Programa enviado
+[INFO] 19:10:12:838 CONSOLA/(4264:4264): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:10:12:838 CONSOLA/(4264:4264): El kernel recibió el programa correctamente.
+[INFO] 19:11:54:813 CONSOLA/(4314:4314): Se abrió el archivo : arithmetics.bc.
+[INFO] 19:11:54:813 CONSOLA/(4314:4314): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 19:11:54:813 CONSOLA/(4314:4314): Intentando conectar a kernel
+
+[INFO] 19:11:54:813 CONSOLA/(4314:4314): ENVIO datos. socket: 5. buffer: C298
+[INFO] 19:11:54:813 CONSOLA/(4314:4314): Se envió el handshake al kernel
+[INFO] 19:11:54:814 CONSOLA/(4314:4314): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:11:54:814 CONSOLA/(4314:4314): Conexión con kernel aceptada
+[INFO] 19:11:54:814 CONSOLA/(4314:4314): Programa enviado
+[INFO] 19:11:54:814 CONSOLA/(4314:4314): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:11:54:814 CONSOLA/(4314:4314): El kernel recibió el programa correctamente.
+[INFO] 19:14:18:146 CONSOLA/(4343:4343): Se abrió el archivo : arithmetics.bc.
+[INFO] 19:14:18:146 CONSOLA/(4343:4343): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 19:14:18:146 CONSOLA/(4343:4343): Intentando conectar a kernel
+
+[INFO] 19:14:18:146 CONSOLA/(4343:4343): ENVIO datos. socket: 5. buffer: C298
+[INFO] 19:14:18:147 CONSOLA/(4343:4343): Se envió el handshake al kernel
+[INFO] 19:14:18:147 CONSOLA/(4343:4343): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:14:18:147 CONSOLA/(4343:4343): Conexión con kernel aceptada
+[INFO] 19:14:18:147 CONSOLA/(4343:4343): Programa enviado
+[INFO] 19:14:18:148 CONSOLA/(4343:4343): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:14:18:148 CONSOLA/(4343:4343): El kernel recibió el programa correctamente.
+[INFO] 19:18:19:773 CONSOLA/(4595:4595): Se abrió el archivo : arithmetics.bc.
+[INFO] 19:18:19:773 CONSOLA/(4595:4595): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 19:18:19:773 CONSOLA/(4595:4595): Intentando conectar a kernel
+
+[INFO] 19:18:19:774 CONSOLA/(4595:4595): ENVIO datos. socket: 5. buffer: C298
+[INFO] 19:18:19:774 CONSOLA/(4595:4595): Se envió el handshake al kernel
+[INFO] 19:18:19:774 CONSOLA/(4595:4595): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:18:19:774 CONSOLA/(4595:4595): Conexión con kernel aceptada
+[INFO] 19:18:19:774 CONSOLA/(4595:4595): Programa enviado
+[INFO] 19:18:19:775 CONSOLA/(4595:4595): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:18:19:775 CONSOLA/(4595:4595): El kernel recibió el programa correctamente.
+[INFO] 19:20:52:182 CONSOLA/(4688:4688): Se abrió el archivo : stack.bc.
+[INFO] 19:20:52:183 CONSOLA/(4688:4688): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:20:52:183 CONSOLA/(4688:4688): Intentando conectar a kernel
+
+[INFO] 19:20:52:183 CONSOLA/(4688:4688): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:20:52:183 CONSOLA/(4688:4688): Se envió el handshake al kernel
+[INFO] 19:20:52:183 CONSOLA/(4688:4688): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:20:52:183 CONSOLA/(4688:4688): Conexión con kernel aceptada
+[INFO] 19:20:52:184 CONSOLA/(4688:4688): Programa enviado
+[INFO] 19:20:52:185 CONSOLA/(4688:4688): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:20:52:185 CONSOLA/(4688:4688): El kernel recibió el programa correctamente.
+[INFO] 19:25:18:208 CONSOLA/(4748:4748): Se abrió el archivo : stack.bc.
+[INFO] 19:25:18:208 CONSOLA/(4748:4748): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:25:18:208 CONSOLA/(4748:4748): Intentando conectar a kernel
+
+[INFO] 19:25:18:209 CONSOLA/(4748:4748): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:25:18:209 CONSOLA/(4748:4748): Se envió el handshake al kernel
+[INFO] 19:25:18:209 CONSOLA/(4748:4748): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:25:18:209 CONSOLA/(4748:4748): Conexión con kernel aceptada
+[INFO] 19:25:18:209 CONSOLA/(4748:4748): Programa enviado
+[INFO] 19:25:18:210 CONSOLA/(4748:4748): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:25:18:210 CONSOLA/(4748:4748): El kernel recibió el programa correctamente.
+[INFO] 19:27:30:789 CONSOLA/(4799:4799): Se abrió el archivo : stack.bc.
+[INFO] 19:28:58:798 CONSOLA/(4843:4843): Se abrió el archivo : stack.bc.
+[INFO] 19:28:58:798 CONSOLA/(4843:4843): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:28:58:798 CONSOLA/(4843:4843): Intentando conectar a kernel
+
+[INFO] 19:28:58:799 CONSOLA/(4843:4843): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:28:58:799 CONSOLA/(4843:4843): Se envió el handshake al kernel
+[INFO] 19:28:58:799 CONSOLA/(4843:4843): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:28:58:799 CONSOLA/(4843:4843): Conexión con kernel aceptada
+[INFO] 19:28:58:799 CONSOLA/(4843:4843): Programa enviado
+[INFO] 19:28:58:799 CONSOLA/(4843:4843): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:28:58:799 CONSOLA/(4843:4843): El kernel recibió el programa correctamente.
+[INFO] 19:33:00:509 CONSOLA/(4916:4916): Se abrió el archivo : stack.bc.
+[INFO] 19:33:00:509 CONSOLA/(4916:4916): Tamanio del programa a leer: 77. Tamanio leido: 1. strlen(buffer): 7
+
+[INFO] 19:33:00:509 CONSOLA/(4916:4916): Intentando conectar a kernel
+
+[INFO] 19:33:00:510 CONSOLA/(4916:4916): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:33:00:510 CONSOLA/(4916:4916): Se envió el handshake al kernel
+[INFO] 19:33:00:510 CONSOLA/(4916:4916): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:33:00:510 CONSOLA/(4916:4916): Conexión con kernel aceptada
+[INFO] 19:33:00:510 CONSOLA/(4916:4916): Programa enviado
+[INFO] 19:33:00:510 CONSOLA/(4916:4916): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:33:00:510 CONSOLA/(4916:4916): El kernel recibió el programa correctamente.
+[INFO] 19:35:45:5 CONSOLA/(4989:4989): Se abrió el archivo : stack.bc.
+[INFO] 19:35:45:5 CONSOLA/(4989:4989): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:35:45:5 CONSOLA/(4989:4989): Intentando conectar a kernel
+
+[INFO] 19:35:45:6 CONSOLA/(4989:4989): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:35:45:6 CONSOLA/(4989:4989): Se envió el handshake al kernel
+[INFO] 19:35:45:6 CONSOLA/(4989:4989): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:35:45:6 CONSOLA/(4989:4989): Conexión con kernel aceptada
+[INFO] 19:35:45:6 CONSOLA/(4989:4989): Programa enviado
+[INFO] 19:35:45:6 CONSOLA/(4989:4989): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:35:45:6 CONSOLA/(4989:4989): El kernel recibió el programa correctamente.
+[INFO] 19:36:17:83 CONSOLA/(5020:5020): Se abrió el archivo : stack.bc.
+[INFO] 19:36:17:83 CONSOLA/(5020:5020): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:36:17:84 CONSOLA/(5020:5020): Intentando conectar a kernel
+
+[INFO] 19:36:17:84 CONSOLA/(5020:5020): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:36:17:84 CONSOLA/(5020:5020): Se envió el handshake al kernel
+[INFO] 19:36:17:84 CONSOLA/(5020:5020): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:36:17:84 CONSOLA/(5020:5020): Conexión con kernel aceptada
+[INFO] 19:36:17:84 CONSOLA/(5020:5020): Programa enviado
+[INFO] 19:36:17:84 CONSOLA/(5020:5020): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:36:17:85 CONSOLA/(5020:5020): El kernel recibió el programa correctamente.
+[INFO] 19:37:53:773 CONSOLA/(5098:5098): Se abrió el archivo : stack.bc.
+[INFO] 19:37:53:773 CONSOLA/(5098:5098): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:37:53:773 CONSOLA/(5098:5098): Intentando conectar a kernel
+
+[INFO] 19:37:53:774 CONSOLA/(5098:5098): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:37:53:774 CONSOLA/(5098:5098): Se envió el handshake al kernel
+[INFO] 19:37:53:774 CONSOLA/(5098:5098): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:37:53:774 CONSOLA/(5098:5098): Conexión con kernel aceptada
+[INFO] 19:37:53:774 CONSOLA/(5098:5098): Programa enviado
+[INFO] 19:37:53:774 CONSOLA/(5098:5098): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:37:53:774 CONSOLA/(5098:5098): El kernel recibió el programa correctamente.
+[INFO] 19:42:31:953 CONSOLA/(5184:5184): Se abrió el archivo : stack.bc.
+[INFO] 19:42:31:953 CONSOLA/(5184:5184): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:42:31:953 CONSOLA/(5184:5184): Intentando conectar a kernel
+
+[INFO] 19:42:31:954 CONSOLA/(5184:5184): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:42:31:954 CONSOLA/(5184:5184): Se envió el handshake al kernel
+[INFO] 19:42:31:955 CONSOLA/(5184:5184): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:42:31:955 CONSOLA/(5184:5184): Conexión con kernel aceptada
+[INFO] 19:42:31:955 CONSOLA/(5184:5184): Programa enviado
+[INFO] 19:42:31:955 CONSOLA/(5184:5184): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:42:31:955 CONSOLA/(5184:5184): El kernel recibió el programa correctamente.
+[INFO] 19:43:56:912 CONSOLA/(5213:5213): Se abrió el archivo : stack.bc.
+[INFO] 19:43:56:912 CONSOLA/(5213:5213): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:43:56:912 CONSOLA/(5213:5213): Intentando conectar a kernel
+
+[INFO] 19:43:56:913 CONSOLA/(5213:5213): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:43:56:913 CONSOLA/(5213:5213): Se envió el handshake al kernel
+[INFO] 19:43:56:913 CONSOLA/(5213:5213): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:43:56:913 CONSOLA/(5213:5213): Conexión con kernel aceptada
+[INFO] 19:43:56:914 CONSOLA/(5213:5213): Programa enviado
+[INFO] 19:43:56:914 CONSOLA/(5213:5213): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:43:56:914 CONSOLA/(5213:5213): El kernel recibió el programa correctamente.
+[INFO] 19:44:24:411 CONSOLA/(5252:5252): Se abrió el archivo : stack.bc.
+[INFO] 19:44:24:411 CONSOLA/(5252:5252): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:44:24:411 CONSOLA/(5252:5252): Intentando conectar a kernel
+
+[INFO] 19:44:24:412 CONSOLA/(5252:5252): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:44:24:412 CONSOLA/(5252:5252): Se envió el handshake al kernel
+[INFO] 19:44:24:412 CONSOLA/(5252:5252): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:44:24:412 CONSOLA/(5252:5252): Conexión con kernel aceptada
+[INFO] 19:44:24:412 CONSOLA/(5252:5252): Programa enviado
+[INFO] 19:44:24:412 CONSOLA/(5252:5252): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:44:24:412 CONSOLA/(5252:5252): El kernel recibió el programa correctamente.
+[INFO] 19:47:22:549 CONSOLA/(5341:5341): Se abrió el archivo : stack.bc.
+[INFO] 19:47:22:550 CONSOLA/(5341:5341): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:47:22:550 CONSOLA/(5341:5341): Intentando conectar a kernel
+
+[INFO] 19:47:22:550 CONSOLA/(5341:5341): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:47:22:550 CONSOLA/(5341:5341): Se envió el handshake al kernel
+[INFO] 19:47:22:551 CONSOLA/(5341:5341): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:47:22:551 CONSOLA/(5341:5341): Conexión con kernel aceptada
+[INFO] 19:47:22:551 CONSOLA/(5341:5341): Programa enviado
+[INFO] 19:47:22:551 CONSOLA/(5341:5341): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:47:22:551 CONSOLA/(5341:5341): El kernel recibió el programa correctamente.
+[INFO] 19:50:42:142 CONSOLA/(5434:5434): Se abrió el archivo : stack.bc.
+[INFO] 19:50:42:142 CONSOLA/(5434:5434): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:50:42:142 CONSOLA/(5434:5434): Intentando conectar a kernel
+
+[INFO] 19:50:42:143 CONSOLA/(5434:5434): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:50:42:143 CONSOLA/(5434:5434): Se envió el handshake al kernel
+[INFO] 19:50:42:143 CONSOLA/(5434:5434): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:50:42:143 CONSOLA/(5434:5434): Conexión con kernel aceptada
+[INFO] 19:50:42:143 CONSOLA/(5434:5434): Programa enviado
+[INFO] 19:50:42:144 CONSOLA/(5434:5434): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:50:42:144 CONSOLA/(5434:5434): El kernel recibió el programa correctamente.
+[INFO] 19:52:34:595 CONSOLA/(19110:19110): Se abrió el archivo : stack.bc.
+[INFO] 19:52:34:596 CONSOLA/(19110:19110): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:52:34:596 CONSOLA/(19110:19110): Intentando conectar a kernel
+
+[INFO] 19:52:34:596 CONSOLA/(19110:19110): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:52:34:597 CONSOLA/(19110:19110): Se envió el handshake al kernel
+[INFO] 19:52:34:597 CONSOLA/(19110:19110): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:52:34:597 CONSOLA/(19110:19110): Conexión con kernel aceptada
+[INFO] 19:52:34:597 CONSOLA/(19110:19110): Programa enviado
+[INFO] 19:52:34:597 CONSOLA/(19110:19110): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:52:34:598 CONSOLA/(19110:19110): El kernel recibió el programa correctamente.
+[INFO] 19:53:13:145 CONSOLA/(19126:19126): Se abrió el archivo : stack.bc.
+[INFO] 19:53:13:146 CONSOLA/(19126:19126): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:53:13:146 CONSOLA/(19126:19126): Intentando conectar a kernel
+
+[INFO] 19:53:13:146 CONSOLA/(19126:19126): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:53:13:146 CONSOLA/(19126:19126): Se envió el handshake al kernel
+[INFO] 19:53:13:147 CONSOLA/(19126:19126): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:53:13:147 CONSOLA/(19126:19126): Conexión con kernel aceptada
+[INFO] 19:53:13:147 CONSOLA/(19126:19126): Programa enviado
+[INFO] 19:53:13:147 CONSOLA/(19126:19126): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:53:13:147 CONSOLA/(19126:19126): El kernel recibió el programa correctamente.
+[INFO] 19:55:24:628 CONSOLA/(19183:19183): Se abrió el archivo : stack.bc.
+[INFO] 19:55:24:628 CONSOLA/(19183:19183): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:55:24:629 CONSOLA/(19183:19183): Intentando conectar a kernel
+
+[INFO] 19:55:24:630 CONSOLA/(19183:19183): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:55:24:630 CONSOLA/(19183:19183): Se envió el handshake al kernel
+[INFO] 19:55:24:630 CONSOLA/(19183:19183): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:55:24:630 CONSOLA/(19183:19183): Conexión con kernel aceptada
+[INFO] 19:55:24:630 CONSOLA/(19183:19183): Programa enviado
+[INFO] 19:55:24:631 CONSOLA/(19183:19183): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:55:24:631 CONSOLA/(19183:19183): El kernel recibió el programa correctamente.
+[INFO] 19:57:30:63 CONSOLA/(19239:19239): Se abrió el archivo : stack.bc.
+[INFO] 19:57:30:63 CONSOLA/(19239:19239): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 19:57:30:63 CONSOLA/(19239:19239): Intentando conectar a kernel
+
+[INFO] 19:57:30:64 CONSOLA/(19239:19239): ENVIO datos. socket: 5. buffer: C277
+[INFO] 19:57:30:64 CONSOLA/(19239:19239): Se envió el handshake al kernel
+[INFO] 19:57:30:64 CONSOLA/(19239:19239): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:57:30:65 CONSOLA/(19239:19239): Conexión con kernel aceptada
+[INFO] 19:57:30:65 CONSOLA/(19239:19239): Programa enviado
+[INFO] 19:57:30:65 CONSOLA/(19239:19239): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 19:57:30:65 CONSOLA/(19239:19239): El kernel recibió el programa correctamente.
+[INFO] 20:00:21:462 CONSOLA/(19301:19301): Se abrió el archivo : stack.bc.
+[INFO] 20:00:21:462 CONSOLA/(19301:19301): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 20:00:21:462 CONSOLA/(19301:19301): Intentando conectar a kernel
+
+[INFO] 20:00:21:463 CONSOLA/(19301:19301): ENVIO datos. socket: 5. buffer: C277
+[INFO] 20:00:21:463 CONSOLA/(19301:19301): Se envió el handshake al kernel
+[INFO] 20:00:21:463 CONSOLA/(19301:19301): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:00:21:463 CONSOLA/(19301:19301): Conexión con kernel aceptada
+[INFO] 20:00:21:463 CONSOLA/(19301:19301): Programa enviado
+[INFO] 20:00:21:463 CONSOLA/(19301:19301): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:00:21:463 CONSOLA/(19301:19301): El kernel recibió el programa correctamente.
+[INFO] 20:03:57:562 CONSOLA/(19387:19387): Se abrió el archivo : stack.bc.
+[INFO] 20:03:57:562 CONSOLA/(19387:19387): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 20:03:57:562 CONSOLA/(19387:19387): Intentando conectar a kernel
+
+[INFO] 20:03:57:563 CONSOLA/(19387:19387): ENVIO datos. socket: 5. buffer: C277
+[INFO] 20:03:57:563 CONSOLA/(19387:19387): Se envió el handshake al kernel
+[INFO] 20:03:57:563 CONSOLA/(19387:19387): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:03:57:563 CONSOLA/(19387:19387): Conexión con kernel aceptada
+[INFO] 20:03:57:564 CONSOLA/(19387:19387): Programa enviado
+[INFO] 20:03:57:564 CONSOLA/(19387:19387): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:03:57:564 CONSOLA/(19387:19387): El kernel recibió el programa correctamente.
+[INFO] 20:06:27:506 CONSOLA/(19455:19455): Se abrió el archivo : stack.bc.
+[INFO] 20:06:27:507 CONSOLA/(19455:19455): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 20:06:27:507 CONSOLA/(19455:19455): Intentando conectar a kernel
+
+[INFO] 20:06:27:507 CONSOLA/(19455:19455): ENVIO datos. socket: 5. buffer: C277
+[INFO] 20:06:27:507 CONSOLA/(19455:19455): Se envió el handshake al kernel
+[INFO] 20:06:27:508 CONSOLA/(19455:19455): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:06:27:508 CONSOLA/(19455:19455): Conexión con kernel aceptada
+[INFO] 20:06:27:508 CONSOLA/(19455:19455): Programa enviado
+[INFO] 20:06:27:508 CONSOLA/(19455:19455): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:06:27:508 CONSOLA/(19455:19455): El kernel recibió el programa correctamente.
+[INFO] 20:07:34:739 CONSOLA/(19516:19516): Se abrió el archivo : stack.bc.
+[INFO] 20:07:34:739 CONSOLA/(19516:19516): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 20:07:34:739 CONSOLA/(19516:19516): Intentando conectar a kernel
+
+[INFO] 20:07:34:739 CONSOLA/(19516:19516): ENVIO datos. socket: 5. buffer: C277
+[INFO] 20:07:34:739 CONSOLA/(19516:19516): Se envió el handshake al kernel
+[INFO] 20:07:34:740 CONSOLA/(19516:19516): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:07:34:740 CONSOLA/(19516:19516): Conexión con kernel aceptada
+[INFO] 20:07:34:740 CONSOLA/(19516:19516): Programa enviado
+[INFO] 20:07:34:740 CONSOLA/(19516:19516): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:07:34:741 CONSOLA/(19516:19516): El kernel recibió el programa correctamente.
+[INFO] 20:13:23:366 CONSOLA/(19767:19767): Se abrió el archivo : stack.bc.
+[INFO] 20:13:23:366 CONSOLA/(19767:19767): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 20:13:23:366 CONSOLA/(19767:19767): Intentando conectar a kernel
+
+[INFO] 20:13:23:367 CONSOLA/(19767:19767): ENVIO datos. socket: 5. buffer: C277
+[INFO] 20:13:23:367 CONSOLA/(19767:19767): Se envió el handshake al kernel
+[INFO] 20:13:23:369 CONSOLA/(19767:19767): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:13:23:369 CONSOLA/(19767:19767): Conexión con kernel aceptada
+[INFO] 20:13:23:369 CONSOLA/(19767:19767): Programa enviado
+[INFO] 20:13:23:370 CONSOLA/(19767:19767): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 20:13:23:370 CONSOLA/(19767:19767): El kernel recibió el programa correctamente.
+[INFO] 15:15:19:252 CONSOLA/(4099:4099): Se abrió el archivo : stack.bc.
+[INFO] 15:15:19:252 CONSOLA/(4099:4099): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 15:15:19:252 CONSOLA/(4099:4099): Intentando conectar a kernel
+
+[INFO] 15:15:19:252 CONSOLA/(4099:4099): ENVIO datos. socket: 6. buffer: C277
+[INFO] 15:15:19:252 CONSOLA/(4099:4099): Se envió el handshake al kernel
+[INFO] 15:15:19:253 CONSOLA/(4099:4099): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:15:19:253 CONSOLA/(4099:4099): Conexión con kernel aceptada
+[INFO] 15:15:19:253 CONSOLA/(4099:4099): Programa enviado
+[INFO] 15:15:19:253 CONSOLA/(4099:4099): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:15:19:253 CONSOLA/(4099:4099): El kernel recibió el programa correctamente.
+[INFO] 15:18:11:450 CONSOLA/(4287:4287): Se abrió el archivo : stack.bc.
+[INFO] 15:18:11:450 CONSOLA/(4287:4287): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 15:18:11:450 CONSOLA/(4287:4287): Intentando conectar a kernel
+
+[INFO] 15:18:11:450 CONSOLA/(4287:4287): ENVIO datos. socket: 6. buffer: C277
+[INFO] 15:18:11:450 CONSOLA/(4287:4287): Se envió el handshake al kernel
+[INFO] 15:18:11:451 CONSOLA/(4287:4287): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:18:11:451 CONSOLA/(4287:4287): Conexión con kernel aceptada
+[INFO] 15:18:11:451 CONSOLA/(4287:4287): Programa enviado
+[INFO] 15:18:11:451 CONSOLA/(4287:4287): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:18:11:451 CONSOLA/(4287:4287): El kernel recibió el programa correctamente.
+[INFO] 15:41:42:165 CONSOLA/(4675:4675): Se abrió el archivo : stack.bc.
+[INFO] 15:41:42:165 CONSOLA/(4675:4675): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 15:41:42:165 CONSOLA/(4675:4675): Intentando conectar a kernel
+
+[INFO] 15:41:42:165 CONSOLA/(4675:4675): ENVIO datos. socket: 6. buffer: C277
+[INFO] 15:41:42:165 CONSOLA/(4675:4675): Se envió el handshake al kernel
+[INFO] 15:41:42:166 CONSOLA/(4675:4675): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:41:42:166 CONSOLA/(4675:4675): Conexión con kernel aceptada
+[INFO] 15:41:42:166 CONSOLA/(4675:4675): Programa enviado
+[INFO] 15:41:42:167 CONSOLA/(4675:4675): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:41:42:167 CONSOLA/(4675:4675): El kernel recibió el programa correctamente.
+[INFO] 15:46:00:288 CONSOLA/(4944:4944): Se abrió el archivo : stack.bc.
+[INFO] 15:46:00:289 CONSOLA/(4944:4944): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 15:46:00:290 CONSOLA/(4944:4944): Intentando conectar a kernel
+
+[INFO] 15:46:00:290 CONSOLA/(4944:4944): ENVIO datos. socket: 6. buffer: C277
+[INFO] 15:46:00:290 CONSOLA/(4944:4944): Se envió el handshake al kernel
+[INFO] 15:46:00:291 CONSOLA/(4944:4944): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:46:00:291 CONSOLA/(4944:4944): Conexión con kernel aceptada
+[INFO] 15:46:00:291 CONSOLA/(4944:4944): Programa enviado
+[INFO] 15:46:00:291 CONSOLA/(4944:4944): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 15:46:00:291 CONSOLA/(4944:4944): El kernel recibió el programa correctamente.
+[INFO] 18:12:28:435 CONSOLA/(5161:5161): Se abrió el archivo : arithmetics.bc.
+[INFO] 18:12:28:435 CONSOLA/(5161:5161): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 18:12:28:436 CONSOLA/(5161:5161): Intentando conectar a kernel
+
+[INFO] 18:12:28:437 CONSOLA/(5161:5161): ENVIO datos. socket: 6. buffer: C298
+[INFO] 18:12:28:437 CONSOLA/(5161:5161): Se envió el handshake al kernel
+[INFO] 18:12:28:437 CONSOLA/(5161:5161): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 18:12:28:438 CONSOLA/(5161:5161): Conexión con kernel aceptada
+[INFO] 18:12:28:438 CONSOLA/(5161:5161): Programa enviado
+[INFO] 18:12:28:438 CONSOLA/(5161:5161): RECIBO datos. socket: 6. buffer: O
+
+[INFO] 18:12:28:438 CONSOLA/(5161:5161): El kernel recibió el programa correctamente.
+[INFO] 12:02:40:828 CONSOLA/(2169:2169): Se abrió el archivo : stack.bc.
+[INFO] 12:02:40:865 CONSOLA/(2169:2169): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 12:02:40:867 CONSOLA/(2169:2169): Intentando conectar a kernel
+
+[INFO] 12:02:40:876 CONSOLA/(2169:2169): ENVIO datos. socket: 5. buffer: C277
+[INFO] 12:02:40:883 CONSOLA/(2169:2169): Se envió el handshake al kernel
+[INFO] 12:02:40:886 CONSOLA/(2169:2169): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 12:02:40:888 CONSOLA/(2169:2169): Conexión con kernel aceptada
+[INFO] 12:02:40:902 CONSOLA/(2169:2169): Programa enviado
+[INFO] 12:02:40:908 CONSOLA/(2169:2169): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 12:02:40:925 CONSOLA/(2169:2169): El kernel recibió el programa correctamente.
+[INFO] 13:18:13:181 CONSOLA/(14053:14053): ERROR: al abrir el archivo : logic.bc . Ubicación inválida o archivo inexistente.
+[INFO] 13:18:39:644 CONSOLA/(14120:14120): Se abrió el archivo : logic.bc.
+[INFO] 13:18:39:644 CONSOLA/(14120:14120): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:18:39:644 CONSOLA/(14120:14120): Intentando conectar a kernel
+
+[INFO] 13:18:39:645 CONSOLA/(14120:14120): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:18:39:645 CONSOLA/(14120:14120): Se envió el handshake al kernel
+[INFO] 13:18:39:647 CONSOLA/(14120:14120): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:18:39:647 CONSOLA/(14120:14120): Conexión con kernel aceptada
+[INFO] 13:18:39:647 CONSOLA/(14120:14120): Programa enviado
+[INFO] 13:18:39:647 CONSOLA/(14120:14120): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:18:39:647 CONSOLA/(14120:14120): El kernel recibió el programa correctamente.
+[INFO] 13:26:57:293 CONSOLA/(14307:14307): Se abrió el archivo : logic.bc.
+[INFO] 13:26:57:294 CONSOLA/(14307:14307): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:26:57:294 CONSOLA/(14307:14307): Intentando conectar a kernel
+
+[INFO] 13:26:57:294 CONSOLA/(14307:14307): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:26:57:294 CONSOLA/(14307:14307): Se envió el handshake al kernel
+[INFO] 13:26:57:297 CONSOLA/(14307:14307): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:26:57:297 CONSOLA/(14307:14307): Conexión con kernel aceptada
+[INFO] 13:26:57:297 CONSOLA/(14307:14307): Programa enviado
+[INFO] 13:26:57:298 CONSOLA/(14307:14307): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:26:57:298 CONSOLA/(14307:14307): El kernel recibió el programa correctamente.
+[INFO] 13:31:44:204 CONSOLA/(14440:14440): Se abrió el archivo : logic.bc.
+[INFO] 13:31:44:204 CONSOLA/(14440:14440): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:31:44:204 CONSOLA/(14440:14440): Intentando conectar a kernel
+
+[INFO] 13:31:44:205 CONSOLA/(14440:14440): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:31:44:205 CONSOLA/(14440:14440): Se envió el handshake al kernel
+[INFO] 13:31:44:206 CONSOLA/(14440:14440): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:31:44:206 CONSOLA/(14440:14440): Conexión con kernel aceptada
+[INFO] 13:31:44:206 CONSOLA/(14440:14440): Programa enviado
+[INFO] 13:31:44:207 CONSOLA/(14440:14440): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:31:44:208 CONSOLA/(14440:14440): El kernel recibió el programa correctamente.
+[INFO] 13:33:57:435 CONSOLA/(14661:14661): Se abrió el archivo : logic.bc.
+[INFO] 13:33:57:435 CONSOLA/(14661:14661): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:33:57:436 CONSOLA/(14661:14661): Intentando conectar a kernel
+
+[INFO] 13:33:57:436 CONSOLA/(14661:14661): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:33:57:436 CONSOLA/(14661:14661): Se envió el handshake al kernel
+[INFO] 13:33:57:436 CONSOLA/(14661:14661): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:33:57:436 CONSOLA/(14661:14661): Conexión con kernel aceptada
+[INFO] 13:33:57:436 CONSOLA/(14661:14661): Programa enviado
+[INFO] 13:33:57:437 CONSOLA/(14661:14661): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:33:57:437 CONSOLA/(14661:14661): El kernel recibió el programa correctamente.
+[INFO] 13:34:57:767 CONSOLA/(14678:14678): Se abrió el archivo : logic.bc.
+[INFO] 13:34:57:767 CONSOLA/(14678:14678): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:34:57:767 CONSOLA/(14678:14678): Intentando conectar a kernel
+
+[INFO] 13:34:57:768 CONSOLA/(14678:14678): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:34:57:768 CONSOLA/(14678:14678): Se envió el handshake al kernel
+[INFO] 13:34:57:768 CONSOLA/(14678:14678): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:34:57:768 CONSOLA/(14678:14678): Conexión con kernel aceptada
+[INFO] 13:34:57:768 CONSOLA/(14678:14678): Programa enviado
+[INFO] 13:34:57:769 CONSOLA/(14678:14678): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:34:57:769 CONSOLA/(14678:14678): El kernel recibió el programa correctamente.
+[INFO] 13:36:41:661 CONSOLA/(14739:14739): Se abrió el archivo : logic.bc.
+[INFO] 13:36:41:661 CONSOLA/(14739:14739): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:36:41:661 CONSOLA/(14739:14739): Intentando conectar a kernel
+
+[INFO] 13:36:41:662 CONSOLA/(14739:14739): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:36:41:662 CONSOLA/(14739:14739): Se envió el handshake al kernel
+[INFO] 13:36:41:662 CONSOLA/(14739:14739): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:36:41:662 CONSOLA/(14739:14739): Conexión con kernel aceptada
+[INFO] 13:36:41:662 CONSOLA/(14739:14739): Programa enviado
+[INFO] 13:36:41:663 CONSOLA/(14739:14739): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:36:41:663 CONSOLA/(14739:14739): El kernel recibió el programa correctamente.
+[INFO] 13:38:26:459 CONSOLA/(14757:14757): Se abrió el archivo : logic.bc.
+[INFO] 13:38:26:459 CONSOLA/(14757:14757): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:38:26:459 CONSOLA/(14757:14757): Intentando conectar a kernel
+
+[INFO] 13:38:26:460 CONSOLA/(14757:14757): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:38:26:460 CONSOLA/(14757:14757): Se envió el handshake al kernel
+[INFO] 13:38:26:460 CONSOLA/(14757:14757): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:38:26:460 CONSOLA/(14757:14757): Conexión con kernel aceptada
+[INFO] 13:38:26:460 CONSOLA/(14757:14757): Programa enviado
+[INFO] 13:38:26:461 CONSOLA/(14757:14757): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:38:26:461 CONSOLA/(14757:14757): El kernel recibió el programa correctamente.
+[INFO] 13:39:38:104 CONSOLA/(14929:14929): Se abrió el archivo : logic.bc.
+[INFO] 13:39:38:105 CONSOLA/(14929:14929): Tamanio del programa a leer: 97. Tamanio leido: 97. strlen(buffer): 6
+
+[INFO] 13:39:38:105 CONSOLA/(14929:14929): Intentando conectar a kernel
+
+[INFO] 13:39:38:105 CONSOLA/(14929:14929): ENVIO datos. socket: 5. buffer: C297
+[INFO] 13:39:38:105 CONSOLA/(14929:14929): Se envió el handshake al kernel
+[INFO] 13:39:38:106 CONSOLA/(14929:14929): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:39:38:106 CONSOLA/(14929:14929): Conexión con kernel aceptada
+[INFO] 13:39:38:106 CONSOLA/(14929:14929): Programa enviado
+[INFO] 13:39:38:106 CONSOLA/(14929:14929): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 13:39:38:106 CONSOLA/(14929:14929): El kernel recibió el programa correctamente.
+[INFO] 14:46:01:50 CONSOLA/(16456:16456): Se abrió el archivo : arithmetics.bc.
+[INFO] 14:46:01:50 CONSOLA/(16456:16456): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 14:46:01:50 CONSOLA/(16456:16456): Intentando conectar a kernel
+
+[INFO] 14:46:01:51 CONSOLA/(16456:16456): ENVIO datos. socket: 5. buffer: C298
+[INFO] 14:46:01:51 CONSOLA/(16456:16456): Se envió el handshake al kernel
+[INFO] 14:46:01:51 CONSOLA/(16456:16456): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 14:46:01:51 CONSOLA/(16456:16456): Conexión con kernel aceptada
+[INFO] 14:46:01:51 CONSOLA/(16456:16456): Programa enviado
+[INFO] 14:46:01:52 CONSOLA/(16456:16456): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 14:46:01:52 CONSOLA/(16456:16456): El kernel recibió el programa correctamente.
+[INFO] 15:19:30:642 CONSOLA/(16709:16709): Se abrió el archivo : arithmetics.bc.
+[INFO] 15:19:30:643 CONSOLA/(16709:16709): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 15:19:30:643 CONSOLA/(16709:16709): Intentando conectar a kernel
+
+[INFO] 15:19:30:643 CONSOLA/(16709:16709): ENVIO datos. socket: 5. buffer: C298
+[INFO] 15:19:30:643 CONSOLA/(16709:16709): Se envió el handshake al kernel
+[INFO] 15:19:30:644 CONSOLA/(16709:16709): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 15:19:30:644 CONSOLA/(16709:16709): Conexión con kernel aceptada
+[INFO] 15:19:30:644 CONSOLA/(16709:16709): Programa enviado
+[INFO] 15:19:30:644 CONSOLA/(16709:16709): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 15:19:30:644 CONSOLA/(16709:16709): El kernel recibió el programa correctamente.
+[INFO] 03:03:22:982 CONSOLA/(32120:32120): Se abrió el archivo : arithmetics.bc.
+[INFO] 03:03:22:982 CONSOLA/(32120:32120): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 03:03:22:982 CONSOLA/(32120:32120): Intentando conectar a kernel
+
+[INFO] 03:03:22:983 CONSOLA/(32120:32120): ENVIO datos. socket: 5. buffer: C298
+[INFO] 03:03:22:983 CONSOLA/(32120:32120): Se envió el handshake al kernel
+[INFO] 03:03:22:983 CONSOLA/(32120:32120): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:03:22:983 CONSOLA/(32120:32120): Conexión con kernel aceptada
+[INFO] 03:03:22:983 CONSOLA/(32120:32120): Programa enviado
+[INFO] 03:03:22:983 CONSOLA/(32120:32120): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:03:22:984 CONSOLA/(32120:32120): El kernel recibió el programa correctamente.
+[INFO] 03:03:23:180 CONSOLA/(32120:32120): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 03:05:19:379 CONSOLA/(32120:32120): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): Se abrió el archivo : arithmetics.bc.
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): Intentando conectar a kernel
+
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): ENVIO datos. socket: 5. buffer: C298
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): Se envió el handshake al kernel
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): Conexión con kernel aceptada
+[INFO] 03:05:45:291 CONSOLA/(32145:32145): Programa enviado
+[INFO] 03:05:45:292 CONSOLA/(32145:32145): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:05:45:292 CONSOLA/(32145:32145): El kernel recibió el programa correctamente.
+[INFO] 03:05:45:433 CONSOLA/(32145:32145): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 03:14:25:213 CONSOLA/(1189:1189): ERROR: al abrir el archivo : bigStack.bc . Ubicación inválida o archivo inexistente.
+[INFO] 03:14:34:573 CONSOLA/(1192:1192): Se abrió el archivo : stack.bc.
+[INFO] 03:14:34:573 CONSOLA/(1192:1192): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 03:14:34:573 CONSOLA/(1192:1192): Intentando conectar a kernel
+
+[INFO] 03:14:34:573 CONSOLA/(1192:1192): ENVIO datos. socket: 5. buffer: C277
+[INFO] 03:14:34:574 CONSOLA/(1192:1192): Se envió el handshake al kernel
+[INFO] 03:14:34:574 CONSOLA/(1192:1192): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:14:34:574 CONSOLA/(1192:1192): Conexión con kernel aceptada
+[INFO] 03:14:34:574 CONSOLA/(1192:1192): Programa enviado
+[INFO] 03:14:34:575 CONSOLA/(1192:1192): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:14:34:575 CONSOLA/(1192:1192): El kernel recibió el programa correctamente.
+[INFO] 03:15:55:428 CONSOLA/(32145:32145): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 03:16:08:861 CONSOLA/(1208:1208): Se abrió el archivo : stack.bc.
+[INFO] 03:16:08:861 CONSOLA/(1208:1208): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 03:16:08:861 CONSOLA/(1208:1208): Intentando conectar a kernel
+
+[INFO] 03:16:08:862 CONSOLA/(1208:1208): ENVIO datos. socket: 5. buffer: C277
+[INFO] 03:16:08:862 CONSOLA/(1208:1208): Se envió el handshake al kernel
+[INFO] 03:16:08:862 CONSOLA/(1208:1208): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:16:08:862 CONSOLA/(1208:1208): Conexión con kernel aceptada
+[INFO] 03:16:08:862 CONSOLA/(1208:1208): Programa enviado
+[INFO] 03:16:08:863 CONSOLA/(1208:1208): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:16:08:863 CONSOLA/(1208:1208): El kernel recibió el programa correctamente.
+[INFO] 03:16:09:52 CONSOLA/(1208:1208): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 03:17:15:563 CONSOLA/(1291:1291): Se abrió el archivo : data.bc.
+[INFO] 03:17:15:564 CONSOLA/(1291:1291): Tamanio del programa a leer: 49. Tamanio leido: 49. strlen(buffer): 6
+
+[INFO] 03:17:15:564 CONSOLA/(1291:1291): Intentando conectar a kernel
+
+[INFO] 03:17:15:564 CONSOLA/(1291:1291): ENVIO datos. socket: 5. buffer: C249
+[INFO] 03:17:15:564 CONSOLA/(1291:1291): Se envió el handshake al kernel
+[INFO] 03:17:15:565 CONSOLA/(1291:1291): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:17:15:565 CONSOLA/(1291:1291): Conexión con kernel aceptada
+[INFO] 03:17:15:565 CONSOLA/(1291:1291): Programa enviado
+[INFO] 03:17:15:565 CONSOLA/(1291:1291): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:17:15:565 CONSOLA/(1291:1291): El kernel recibió el programa correctamente.
+[INFO] 03:20:05:500 CONSOLA/(1291:1291): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 21:07:11:439 CONSOLA/(1834:1834): Se abrió el archivo : arithmetics.bc.
+[INFO] 21:07:11:439 CONSOLA/(1834:1834): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 21:07:11:439 CONSOLA/(1834:1834): Intentando conectar a kernel
+
+[INFO] 21:07:11:440 CONSOLA/(1834:1834): ENVIO datos. socket: 5. buffer: C298
+[INFO] 21:07:11:440 CONSOLA/(1834:1834): Se envió el handshake al kernel
+[INFO] 21:07:11:440 CONSOLA/(1834:1834): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 21:07:11:440 CONSOLA/(1834:1834): Conexión con kernel aceptada
+[INFO] 21:07:11:440 CONSOLA/(1834:1834): Programa enviado
+[INFO] 21:07:11:441 CONSOLA/(1834:1834): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 21:07:11:441 CONSOLA/(1834:1834): El kernel recibió el programa correctamente.
+[INFO] 21:07:11:668 CONSOLA/(1834:1834): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 21:14:19:254 CONSOLA/(1965:1965): Se abrió el archivo : bigStack.bc.
+[INFO] 21:14:19:254 CONSOLA/(1965:1965): Tamanio del programa a leer: 72. Tamanio leido: 72. strlen(buffer): 6
+
+[INFO] 21:14:19:255 CONSOLA/(1965:1965): Intentando conectar a kernel
+
+[INFO] 21:14:19:255 CONSOLA/(1965:1965): ENVIO datos. socket: 5. buffer: C272
+[INFO] 21:14:19:255 CONSOLA/(1965:1965): Se envió el handshake al kernel
+[INFO] 21:14:19:256 CONSOLA/(1965:1965): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 21:14:19:256 CONSOLA/(1965:1965): Conexión con kernel aceptada
+[INFO] 21:14:19:256 CONSOLA/(1965:1965): Programa enviado
+[INFO] 21:14:19:256 CONSOLA/(1965:1965): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 21:14:19:256 CONSOLA/(1965:1965): El kernel recibió el programa correctamente.
+[INFO] 21:14:37:57 CONSOLA/(1965:1965): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 21:16:21:451 CONSOLA/(2068:2068): Se abrió el archivo : arithmetics.bc.
+[INFO] 21:16:21:451 CONSOLA/(2068:2068): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 21:16:21:451 CONSOLA/(2068:2068): Intentando conectar a kernel
+
+[INFO] 21:16:21:451 CONSOLA/(2068:2068): ENVIO datos. socket: 5. buffer: C298
+[INFO] 21:16:21:451 CONSOLA/(2068:2068): Se envió el handshake al kernel
+[INFO] 21:16:21:452 CONSOLA/(2068:2068): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 21:16:21:452 CONSOLA/(2068:2068): Conexión con kernel aceptada
+[INFO] 21:16:21:452 CONSOLA/(2068:2068): Programa enviado
+[INFO] 21:16:21:452 CONSOLA/(2068:2068): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 21:16:21:452 CONSOLA/(2068:2068): El kernel recibió el programa correctamente.
+[INFO] 21:16:21:672 CONSOLA/(2068:2068): RECIBO datos. socket: 5. buffer: El programa termino correctamente.
+
+[INFO] 21:29:47:738 CONSOLA/(2068:2068): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:19:20:653 CONSOLA/(1989:1989): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:19:20:657 CONSOLA/(1989:1989): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:19:20:657 CONSOLA/(1989:1989): Intentando conectar a kernel
+
+[INFO] 02:19:20:658 CONSOLA/(1989:1989): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:19:20:658 CONSOLA/(1989:1989): Se envió el handshake al kernel
+[INFO] 02:19:20:658 CONSOLA/(1989:1989): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:19:20:658 CONSOLA/(1989:1989): Conexión con kernel aceptada
+[INFO] 02:19:20:659 CONSOLA/(1989:1989): Programa enviado
+[INFO] 02:19:20:659 CONSOLA/(1989:1989): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:19:20:659 CONSOLA/(1989:1989): El kernel recibió el programa correctamente.
+[INFO] 02:19:35:25 CONSOLA/(1989:1989): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:20:01:966 CONSOLA/(2043:2043): Se abrió el archivo : stack.bc.
+[INFO] 02:20:01:967 CONSOLA/(2043:2043): Tamanio del programa a leer: 77. Tamanio leido: 77. strlen(buffer): 7
+
+[INFO] 02:20:01:967 CONSOLA/(2043:2043): Intentando conectar a kernel
+
+[INFO] 02:20:01:968 CONSOLA/(2043:2043): ENVIO datos. socket: 5. buffer: C277
+[INFO] 02:20:01:968 CONSOLA/(2043:2043): Se envió el handshake al kernel
+[INFO] 02:20:01:968 CONSOLA/(2043:2043): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:20:01:968 CONSOLA/(2043:2043): Conexión con kernel aceptada
+[INFO] 02:20:01:968 CONSOLA/(2043:2043): Programa enviado
+[INFO] 02:20:01:969 CONSOLA/(2043:2043): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:20:01:969 CONSOLA/(2043:2043): El kernel recibió el programa correctamente.
+[INFO] 02:20:12:277 CONSOLA/(2043:2043): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:20:27:668 CONSOLA/(1989:1989): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:20:27:670 CONSOLA/(2043:2043): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:20:41:615 CONSOLA/(2289:2289): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:20:41:615 CONSOLA/(2289:2289): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:20:41:615 CONSOLA/(2289:2289): Intentando conectar a kernel
+
+[INFO] 02:20:41:615 CONSOLA/(2289:2289): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:20:41:615 CONSOLA/(2289:2289): Se envió el handshake al kernel
+[INFO] 02:20:41:616 CONSOLA/(2289:2289): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:20:41:616 CONSOLA/(2289:2289): Conexión con kernel aceptada
+[INFO] 02:20:41:616 CONSOLA/(2289:2289): Programa enviado
+[INFO] 02:20:41:616 CONSOLA/(2289:2289): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:20:41:616 CONSOLA/(2289:2289): El kernel recibió el programa correctamente.
+[INFO] 02:20:56:261 CONSOLA/(2289:2289): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:24:22:82 CONSOLA/(2289:2289): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:24:28:434 CONSOLA/(2372:2372): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:24:28:434 CONSOLA/(2372:2372): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:24:28:434 CONSOLA/(2372:2372): Intentando conectar a kernel
+
+[INFO] 02:24:28:435 CONSOLA/(2372:2372): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:24:28:435 CONSOLA/(2372:2372): Se envió el handshake al kernel
+[INFO] 02:24:28:435 CONSOLA/(2372:2372): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:24:28:435 CONSOLA/(2372:2372): Conexión con kernel aceptada
+[INFO] 02:24:28:435 CONSOLA/(2372:2372): Programa enviado
+[INFO] 02:24:28:436 CONSOLA/(2372:2372): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:24:28:436 CONSOLA/(2372:2372): El kernel recibió el programa correctamente.
+[INFO] 02:24:43:59 CONSOLA/(2372:2372): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:30:22:727 CONSOLA/(2372:2372): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:30:34:480 CONSOLA/(2525:2525): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:30:34:480 CONSOLA/(2525:2525): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:30:34:481 CONSOLA/(2525:2525): Intentando conectar a kernel
+
+[INFO] 02:30:34:481 CONSOLA/(2525:2525): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:30:34:481 CONSOLA/(2525:2525): Se envió el handshake al kernel
+[INFO] 02:30:34:482 CONSOLA/(2525:2525): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:30:34:482 CONSOLA/(2525:2525): Conexión con kernel aceptada
+[INFO] 02:30:34:482 CONSOLA/(2525:2525): Programa enviado
+[INFO] 02:30:34:483 CONSOLA/(2525:2525): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:30:34:483 CONSOLA/(2525:2525): El kernel recibió el programa correctamente.
+[INFO] 02:30:49:76 CONSOLA/(2525:2525): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:33:42:725 CONSOLA/(2525:2525): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:33:51:277 CONSOLA/(2604:2604): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:33:51:277 CONSOLA/(2604:2604): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:33:51:277 CONSOLA/(2604:2604): Intentando conectar a kernel
+
+[INFO] 02:33:51:277 CONSOLA/(2604:2604): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:33:51:277 CONSOLA/(2604:2604): Se envió el handshake al kernel
+[INFO] 02:33:51:278 CONSOLA/(2604:2604): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:33:51:278 CONSOLA/(2604:2604): Conexión con kernel aceptada
+[INFO] 02:33:51:278 CONSOLA/(2604:2604): Programa enviado
+[INFO] 02:33:51:278 CONSOLA/(2604:2604): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:33:51:278 CONSOLA/(2604:2604): El kernel recibió el programa correctamente.
+[INFO] 02:38:01:676 CONSOLA/(2604:2604): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:38:09:981 CONSOLA/(2701:2701): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:38:09:981 CONSOLA/(2701:2701): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:38:09:981 CONSOLA/(2701:2701): Intentando conectar a kernel
+
+[INFO] 02:38:09:982 CONSOLA/(2701:2701): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:38:09:982 CONSOLA/(2701:2701): Se envió el handshake al kernel
+[INFO] 02:38:09:982 CONSOLA/(2701:2701): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:38:09:982 CONSOLA/(2701:2701): Conexión con kernel aceptada
+[INFO] 02:38:09:982 CONSOLA/(2701:2701): Programa enviado
+[INFO] 02:38:09:983 CONSOLA/(2701:2701): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:38:09:983 CONSOLA/(2701:2701): El kernel recibió el programa correctamente.
+[INFO] 02:38:10:404 CONSOLA/(2701:2701): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:39:30:812 CONSOLA/(2761:2761): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:39:30:812 CONSOLA/(2761:2761): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:39:30:813 CONSOLA/(2761:2761): Intentando conectar a kernel
+
+[INFO] 02:39:30:813 CONSOLA/(2761:2761): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:39:30:813 CONSOLA/(2761:2761): Se envió el handshake al kernel
+[INFO] 02:39:30:813 CONSOLA/(2761:2761): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:39:30:814 CONSOLA/(2761:2761): Conexión con kernel aceptada
+[INFO] 02:39:30:814 CONSOLA/(2761:2761): Programa enviado
+[INFO] 02:39:30:814 CONSOLA/(2761:2761): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:39:30:814 CONSOLA/(2761:2761): El kernel recibió el programa correctamente.
+[INFO] 02:39:45:440 CONSOLA/(2761:2761): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:41:05:244 CONSOLA/(2761:2761): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:41:13:288 CONSOLA/(2823:2823): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:41:13:288 CONSOLA/(2823:2823): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:41:13:290 CONSOLA/(2823:2823): Intentando conectar a kernel
+
+[INFO] 02:41:13:290 CONSOLA/(2823:2823): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:41:13:290 CONSOLA/(2823:2823): Se envió el handshake al kernel
+[INFO] 02:41:13:291 CONSOLA/(2823:2823): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:41:13:291 CONSOLA/(2823:2823): Conexión con kernel aceptada
+[INFO] 02:41:13:291 CONSOLA/(2823:2823): Programa enviado
+[INFO] 02:41:13:291 CONSOLA/(2823:2823): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:41:13:291 CONSOLA/(2823:2823): El kernel recibió el programa correctamente.
+[INFO] 02:41:27:932 CONSOLA/(2823:2823): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:46:26:808 CONSOLA/(2823:2823): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:46:36:128 CONSOLA/(2926:2926): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:46:36:128 CONSOLA/(2926:2926): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:46:36:128 CONSOLA/(2926:2926): Intentando conectar a kernel
+
+[INFO] 02:46:36:129 CONSOLA/(2926:2926): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:46:36:129 CONSOLA/(2926:2926): Se envió el handshake al kernel
+[INFO] 02:46:36:129 CONSOLA/(2926:2926): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:46:36:129 CONSOLA/(2926:2926): Conexión con kernel aceptada
+[INFO] 02:46:36:129 CONSOLA/(2926:2926): Programa enviado
+[INFO] 02:46:36:130 CONSOLA/(2926:2926): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:46:36:130 CONSOLA/(2926:2926): El kernel recibió el programa correctamente.
+[INFO] 02:46:36:540 CONSOLA/(2926:2926): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:48:20:112 CONSOLA/(2983:2983): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:48:20:112 CONSOLA/(2983:2983): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:48:20:112 CONSOLA/(2983:2983): Intentando conectar a kernel
+
+[INFO] 02:48:20:113 CONSOLA/(2983:2983): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:48:20:113 CONSOLA/(2983:2983): Se envió el handshake al kernel
+[INFO] 02:48:20:113 CONSOLA/(2983:2983): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:48:20:113 CONSOLA/(2983:2983): Conexión con kernel aceptada
+[INFO] 02:48:20:113 CONSOLA/(2983:2983): Programa enviado
+[INFO] 02:48:20:113 CONSOLA/(2983:2983): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:48:20:113 CONSOLA/(2983:2983): El kernel recibió el programa correctamente.
+[INFO] 02:48:34:732 CONSOLA/(2983:2983): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:55:28:334 CONSOLA/(2983:2983): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 02:55:56:902 CONSOLA/(3167:3167): Se abrió el archivo : arithmetics.bc.
+[INFO] 02:55:56:902 CONSOLA/(3167:3167): Tamanio del programa a leer: 98. Tamanio leido: 98. strlen(buffer): 6
+
+[INFO] 02:55:56:902 CONSOLA/(3167:3167): Intentando conectar a kernel
+
+[INFO] 02:55:56:903 CONSOLA/(3167:3167): ENVIO datos. socket: 5. buffer: C298
+[INFO] 02:55:56:903 CONSOLA/(3167:3167): Se envió el handshake al kernel
+[INFO] 02:55:56:903 CONSOLA/(3167:3167): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:55:56:903 CONSOLA/(3167:3167): Conexión con kernel aceptada
+[INFO] 02:55:56:903 CONSOLA/(3167:3167): Programa enviado
+[INFO] 02:55:56:904 CONSOLA/(3167:3167): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:55:56:904 CONSOLA/(3167:3167): El kernel recibió el programa correctamente.
+[INFO] 02:56:11:27 CONSOLA/(3167:3167): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 02:58:03:578 CONSOLA/(3174:3174): Se abrió el archivo : bigStack.bc.
+[INFO] 02:58:03:578 CONSOLA/(3174:3174): Tamanio del programa a leer: 72. Tamanio leido: 72. strlen(buffer): 6
+
+[INFO] 02:58:03:578 CONSOLA/(3174:3174): Intentando conectar a kernel
+
+[INFO] 02:58:03:578 CONSOLA/(3174:3174): ENVIO datos. socket: 5. buffer: C272
+[INFO] 02:58:03:578 CONSOLA/(3174:3174): Se envió el handshake al kernel
+[INFO] 02:58:03:578 CONSOLA/(3174:3174): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:58:03:578 CONSOLA/(3174:3174): Conexión con kernel aceptada
+[INFO] 02:58:03:579 CONSOLA/(3174:3174): Programa enviado
+[INFO] 02:58:03:579 CONSOLA/(3174:3174): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 02:58:03:579 CONSOLA/(3174:3174): El kernel recibió el programa correctamente.
+[INFO] 03:10:29:38 CONSOLA/(3167:3167): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 03:10:43:233 CONSOLA/(3234:3234): ERROR: al abrir el archivo : STDOUT.bx . Ubicación inválida o archivo inexistente.
+[INFO] 03:10:48:259 CONSOLA/(3235:3235): Se abrió el archivo : STDOUT.bc.
+[INFO] 03:10:48:259 CONSOLA/(3235:3235): Tamanio del programa a leer: 65. Tamanio leido: 65. strlen(buffer): 6
+
+[INFO] 03:10:48:259 CONSOLA/(3235:3235): Intentando conectar a kernel
+
+[INFO] 03:10:48:260 CONSOLA/(3235:3235): ENVIO datos. socket: 5. buffer: C265
+[INFO] 03:10:48:260 CONSOLA/(3235:3235): Se envió el handshake al kernel
+[INFO] 03:10:48:260 CONSOLA/(3235:3235): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:10:48:261 CONSOLA/(3235:3235): Conexión con kernel aceptada
+[INFO] 03:10:48:261 CONSOLA/(3235:3235): Programa enviado
+[INFO] 03:10:48:261 CONSOLA/(3235:3235): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:10:48:261 CONSOLA/(3235:3235): El kernel recibió el programa correctamente.
+[INFO] 03:10:52:393 CONSOLA/(3235:3235): RECIBO datos. socket: 5. buffer: SHola mundo!
+
+[INFO] 03:11:04:456 CONSOLA/(3235:3235): RECIBO datos. socket: 5. buffer: S61
+
+[INFO] 03:11:09:501 CONSOLA/(3235:3235): RECIBO datos. socket: 5. buffer: MEl programa termino correctamente.
+
+[INFO] 03:11:09:720 CONSOLA/(3235:3235): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 03:11:31:273 CONSOLA/(3239:3239): Se abrió el archivo : STDIN.bc.
+[INFO] 03:11:31:273 CONSOLA/(3239:3239): Tamanio del programa a leer: 73. Tamanio leido: 73. strlen(buffer): 6
+
+[INFO] 03:11:31:273 CONSOLA/(3239:3239): Intentando conectar a kernel
+
+[INFO] 03:11:31:273 CONSOLA/(3239:3239): ERROR: conectar socket_kernel
+[INFO] 03:11:43:764 CONSOLA/(3241:3241): Se abrió el archivo : STDIN.bc.
+[INFO] 03:11:43:764 CONSOLA/(3241:3241): Tamanio del programa a leer: 73. Tamanio leido: 73. strlen(buffer): 6
+
+[INFO] 03:11:43:764 CONSOLA/(3241:3241): Intentando conectar a kernel
+
+[INFO] 03:11:43:764 CONSOLA/(3241:3241): ERROR: conectar socket_kernel
+[INFO] 03:12:06:120 CONSOLA/(3249:3249): Se abrió el archivo : STDIN.bc.
+[INFO] 03:12:06:120 CONSOLA/(3249:3249): Tamanio del programa a leer: 73. Tamanio leido: 73. strlen(buffer): 6
+
+[INFO] 03:12:06:120 CONSOLA/(3249:3249): Intentando conectar a kernel
+
+[INFO] 03:12:06:120 CONSOLA/(3249:3249): ENVIO datos. socket: 5. buffer: C273
+[INFO] 03:12:06:120 CONSOLA/(3249:3249): Se envió el handshake al kernel
+[INFO] 03:12:06:120 CONSOLA/(3249:3249): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:12:06:121 CONSOLA/(3249:3249): Conexión con kernel aceptada
+[INFO] 03:12:06:121 CONSOLA/(3249:3249): Programa enviado
+[INFO] 03:12:06:121 CONSOLA/(3249:3249): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:12:06:121 CONSOLA/(3249:3249): El kernel recibió el programa correctamente.
+[INFO] 03:12:11:365 CONSOLA/(3249:3249): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 03:12:45:410 CONSOLA/(3259:3259): ERROR: al abrir el archivo : STDIN.bx . Ubicación inválida o archivo inexistente.
+[INFO] 03:12:50:321 CONSOLA/(3261:3261): Se abrió el archivo : STDIN.bc.
+[INFO] 03:12:50:322 CONSOLA/(3261:3261): Tamanio del programa a leer: 73. Tamanio leido: 73. strlen(buffer): 6
+
+[INFO] 03:12:50:322 CONSOLA/(3261:3261): Intentando conectar a kernel
+
+[INFO] 03:12:50:322 CONSOLA/(3261:3261): ENVIO datos. socket: 5. buffer: C273
+[INFO] 03:12:50:322 CONSOLA/(3261:3261): Se envió el handshake al kernel
+[INFO] 03:12:50:322 CONSOLA/(3261:3261): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:12:50:322 CONSOLA/(3261:3261): Conexión con kernel aceptada
+[INFO] 03:12:50:322 CONSOLA/(3261:3261): Programa enviado
+[INFO] 03:12:50:323 CONSOLA/(3261:3261): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:12:50:323 CONSOLA/(3261:3261): El kernel recibió el programa correctamente.
+[INFO] 03:12:55:557 CONSOLA/(3261:3261): RECIBO datos. socket: 5. buffer: 
+
+[INFO] 03:13:15:2 CONSOLA/(3271:3271): Se abrió el archivo : STDIN.bc.
+[INFO] 03:13:15:2 CONSOLA/(3271:3271): Tamanio del programa a leer: 73. Tamanio leido: 73. strlen(buffer): 6
+
+[INFO] 03:13:15:2 CONSOLA/(3271:3271): Intentando conectar a kernel
+
+[INFO] 03:13:15:2 CONSOLA/(3271:3271): ENVIO datos. socket: 5. buffer: C273
+[INFO] 03:13:15:2 CONSOLA/(3271:3271): Se envió el handshake al kernel
+[INFO] 03:13:15:2 CONSOLA/(3271:3271): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:13:15:2 CONSOLA/(3271:3271): Conexión con kernel aceptada
+[INFO] 03:13:15:3 CONSOLA/(3271:3271): Programa enviado
+[INFO] 03:13:15:3 CONSOLA/(3271:3271): RECIBO datos. socket: 5. buffer: O
+
+[INFO] 03:13:15:3 CONSOLA/(3271:3271): El kernel recibió el programa correctamente.
+[INFO] 03:13:20:244 CONSOLA/(3271:3271): RECIBO datos. socket: 5. buffer: 
+

@@ -1,0 +1,13 @@
+[ERROR] 13:42:45:597 msp/(5455:5455): 
+ERROR FATAL--> No se pudo abrir el archivo de configuracion 
+
+[ERROR] 13:44:30:543 msp/(5489:5489): 
+ERROR FATAL--> No se pudo abrir el archivo de configuracion 
+
+[ERROR] 13:47:15:372 msp/(5520:5520): 
+ERROR FATAL--> No se pudo abrir el archivo de configuracion 
+
+[TRACE] 13:48:46:236 msp/(5554:5554): MEMORIA PRINCIPAL RESERVADA. Tamaño de la memoria (512)
+[ERROR] 13:48:54:670 msp/(5554:5576): 
+ERROR FATAL--> Error al hacer el Bind. El puerto está en uso 
+
